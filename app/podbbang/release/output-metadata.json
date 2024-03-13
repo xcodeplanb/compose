@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.makeshop.podbbang",
+  "variantName": "podbbangRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 534,
+      "versionName": "7.18.7",
+      "outputFile": "com.makeshop.podbbang.7.18.7.534-podbbang-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

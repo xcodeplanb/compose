@@ -1,0 +1,2 @@
+com.makeshop.podbbang.shared
+xml automotive_app_desc

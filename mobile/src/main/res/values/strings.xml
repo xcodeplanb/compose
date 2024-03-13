@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Podbbang</string>
+
+    <string name="bottom_nav_title_home">홈</string>
+    <string name="bottom_nav_title_ranking">랭킹</string>
+    <string name="bottom_nav_title_audiobook">오디오북</string>
+    <string name="bottom_nav_title_class">클래스</string>
+    <string name="bottom_nav_title_magazine">매거진</string>
+    <string name="bottom_nav_title_my">마이페이지</string>
+    <string name="bottom_nav_title_musicpod">뮤직팟</string>
+    <string name="ranking_tab_realtime">실시간</string>
+    <string name="ranking_tab_daily">일간</string>
+    <string name="ranking_tab_weekly">주간</string>
+</resources>

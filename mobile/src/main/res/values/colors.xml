@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color000000">#000000</color>
+    <color name="colorFFFFFF">#FFFFFF</color>
+    <color name="colorDE3255">#DE3255</color>
+    <color name="colorCC000000">#CC000000</color>
+    <color name="colorFF4483">#FF4483</color>
+    <color name="color1FA1EB">#1FA1EB</color>
+    <color name="color1A1A1A">#1A1A1A</color>
+    <color name="color222222">#222222</color>
+    <color name="day000000NightFFFFFF">#000000</color>
+    <color name="day9A9A9ANight666666">#9A9A9A</color>
+    <color name="dayFFFFFFNight121212">#FFFFFF</color>
+
+</resources>
