@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.makeshop.podbbang.shared" > <!-- <application> -->
+    <!-- &lt;!&ndash; -->
+    <!-- MediaSession, prior to API 21, uses a broadcast receiver to communicate with a -->
+    <!-- media session. It does not have to be this broadcast receiver, but it must -->
+    <!-- handle the action "android.intent.action.MEDIA_BUTTON". -->
+    <!-- Additionally, this is used to resume the service from an inactive state upon -->
+    <!-- receiving a media button event (such as "play"). -->
+    <!-- &ndash;&gt; -->
+    <!-- <receiver -->
+    <!-- android:name="androidx.media.session.MediaButtonReceiver" -->
+    <!-- android:exported="true"> -->
+    <!-- <intent-filter> -->
+    <!-- <action android:name="android.intent.action.MEDIA_BUTTON" /> -->
+    <!-- </intent-filter> -->
+    <!-- </receiver> -->
+    <!-- &lt;!&ndash;        <provider&ndash;&gt; -->
+    <!-- &lt;!&ndash;            android:name=".library.AlbumArtContentProvider"&ndash;&gt; -->
+    <!-- &lt;!&ndash;            android:authorities="com.example.android.uamp"&ndash;&gt; -->
+    <!-- &lt;!&ndash;            android:exported="true" />&ndash;&gt; -->
+    <!-- </application> -->
+    <uses-sdk android:minSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+</manifest>

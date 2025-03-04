@@ -1,0 +1,230 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.makeshop.podbbang.shared.test" >
+4
+5    <uses-sdk
+5-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:5:5-74
+6        android:minSdkVersion="26"
+6-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:5:15-41
+7        android:targetSdkVersion="34" />
+7-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:11:5-15:83
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:13:22-53
+13        android:label="Tests for com.makeshop.podbbang.shared.test"
+13-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:15:22-81
+14        android:targetPackage="com.makeshop.podbbang.shared.test" />
+14-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:12:22-79
+15
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->[:shared] /Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:5-77
+16-->[:shared] /Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:22-74
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[:shared] /Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:5-67
+17-->[:shared] /Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:22-64
+18    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+18-->[:shared] /Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:5-77
+18-->[:shared] /Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:22-74
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[androidx.media3:media3-exoplayer:1.4.1] /Users/podbbang/.gradle/caches/8.9/transforms/dcd574ab03f05eac802b70ec81af1797/transformed/media3-exoplayer-1.4.1/AndroidManifest.xml:22:5-79
+19-->[androidx.media3:media3-exoplayer:1.4.1] /Users/podbbang/.gradle/caches/8.9/transforms/dcd574ab03f05eac802b70ec81af1797/transformed/media3-exoplayer-1.4.1/AndroidManifest.xml:22:22-76
+20
+21    <queries>
+21-->[com.google.android.gms:play-services-cast-framework:21.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/79f7701a5675d8747496320ce38158ca/transformed/play-services-cast-framework-21.3.0/AndroidManifest.xml:14:5-16:15
+22        <package android:name="com.google.android.gms.policy_cast_dynamite" />
+22-->[com.google.android.gms:play-services-cast-framework:21.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/79f7701a5675d8747496320ce38158ca/transformed/play-services-cast-framework-21.3.0/AndroidManifest.xml:15:9-79
+22-->[com.google.android.gms:play-services-cast-framework:21.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/79f7701a5675d8747496320ce38158ca/transformed/play-services-cast-framework-21.3.0/AndroidManifest.xml:15:18-76
+23    </queries>
+24
+25    <permission
+25-->[androidx.core:core:1.9.0] /Users/podbbang/.gradle/caches/8.9/transforms/9f175765f4274cd3022b53387a50ae13/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+26        android:name="com.makeshop.podbbang.shared.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+26-->[androidx.core:core:1.9.0] /Users/podbbang/.gradle/caches/8.9/transforms/9f175765f4274cd3022b53387a50ae13/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+27        android:protectionLevel="signature" />
+27-->[androidx.core:core:1.9.0] /Users/podbbang/.gradle/caches/8.9/transforms/9f175765f4274cd3022b53387a50ae13/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+28
+29    <uses-permission android:name="com.makeshop.podbbang.shared.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+29-->[androidx.core:core:1.9.0] /Users/podbbang/.gradle/caches/8.9/transforms/9f175765f4274cd3022b53387a50ae13/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+29-->[androidx.core:core:1.9.0] /Users/podbbang/.gradle/caches/8.9/transforms/9f175765f4274cd3022b53387a50ae13/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+30    <uses-permission android:name="android.permission.REORDER_TASKS" />
+30-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:24:5-72
+30-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:24:22-69
+31
+32    <application
+32-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:7:5-9:19
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.9.0] /Users/podbbang/.gradle/caches/8.9/transforms/9f175765f4274cd3022b53387a50ae13/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+34        android:debuggable="true"
+35        android:extractNativeLibs="false" >
+36        <uses-library android:name="android.test.runner" />
+36-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:8:9-60
+36-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest5685030831535111270.xml:8:23-57
+37
+38        <receiver
+38-->[com.google.android.gms:play-services-cast-framework:21.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/79f7701a5675d8747496320ce38158ca/transformed/play-services-cast-framework-21.3.0/AndroidManifest.xml:19:9-21:40
+39            android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver"
+39-->[com.google.android.gms:play-services-cast-framework:21.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/79f7701a5675d8747496320ce38158ca/transformed/play-services-cast-framework-21.3.0/AndroidManifest.xml:20:13-91
+40            android:exported="false" />
+40-->[com.google.android.gms:play-services-cast-framework:21.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/79f7701a5675d8747496320ce38158ca/transformed/play-services-cast-framework-21.3.0/AndroidManifest.xml:21:13-37
+41
+42        <service
+42-->[com.google.android.gms:play-services-cast-framework:21.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/79f7701a5675d8747496320ce38158ca/transformed/play-services-cast-framework-21.3.0/AndroidManifest.xml:23:9-25:40
+43            android:name="com.google.android.gms.cast.framework.ReconnectionService"
+43-->[com.google.android.gms:play-services-cast-framework:21.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/79f7701a5675d8747496320ce38158ca/transformed/play-services-cast-framework-21.3.0/AndroidManifest.xml:24:13-85
+44            android:exported="false" />
+44-->[com.google.android.gms:play-services-cast-framework:21.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/79f7701a5675d8747496320ce38158ca/transformed/play-services-cast-framework-21.3.0/AndroidManifest.xml:25:13-37
+45
+46        <activity
+46-->[com.google.android.gms:play-services-base:18.0.1] /Users/podbbang/.gradle/caches/8.9/transforms/4dc1eaeab3266f076b4ddd2df2dc34d9/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+47            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+47-->[com.google.android.gms:play-services-base:18.0.1] /Users/podbbang/.gradle/caches/8.9/transforms/4dc1eaeab3266f076b4ddd2df2dc34d9/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+48            android:exported="false"
+48-->[com.google.android.gms:play-services-base:18.0.1] /Users/podbbang/.gradle/caches/8.9/transforms/4dc1eaeab3266f076b4ddd2df2dc34d9/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+49            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+49-->[com.google.android.gms:play-services-base:18.0.1] /Users/podbbang/.gradle/caches/8.9/transforms/4dc1eaeab3266f076b4ddd2df2dc34d9/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+50
+51        <meta-data
+51-->[com.google.android.gms:play-services-basement:18.0.0] /Users/podbbang/.gradle/caches/8.9/transforms/50cd32489926207ec6598160cc2b2bf6/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+52            android:name="com.google.android.gms.version"
+52-->[com.google.android.gms:play-services-basement:18.0.0] /Users/podbbang/.gradle/caches/8.9/transforms/50cd32489926207ec6598160cc2b2bf6/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+53            android:value="@integer/google_play_services_version" />
+53-->[com.google.android.gms:play-services-basement:18.0.0] /Users/podbbang/.gradle/caches/8.9/transforms/50cd32489926207ec6598160cc2b2bf6/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+54
+55        <activity
+55-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:27:9-34:20
+56            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+56-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:28:13-99
+57            android:exported="true"
+57-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:29:13-36
+58            android:theme="@android:style/Theme" >
+58-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:30:13-49
+59            <intent-filter>
+59-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:31:13-33:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:32:17-69
+60-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:32:25-66
+61            </intent-filter>
+62        </activity>
+63        <activity
+63-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:35:9-42:20
+64            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+64-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:36:13-95
+65            android:exported="true"
+65-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:37:13-36
+66            android:theme="@android:style/Theme" >
+66-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:38:13-49
+67            <intent-filter>
+67-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:31:13-33:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:32:17-69
+68-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:32:25-66
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:43:9-50:20
+72            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+72-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:44:13-103
+73            android:exported="true"
+73-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:45:13-36
+74            android:theme="@android:style/Theme.Dialog" >
+74-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:46:13-56
+75            <intent-filter>
+75-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:31:13-33:29
+76                <action android:name="android.intent.action.MAIN" />
+76-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:32:17-69
+76-->[androidx.test:core:1.4.0] /Users/podbbang/.gradle/caches/8.9/transforms/f2d52e2e3ac257204d03ce6f86ef56ed/transformed/core-1.4.0/AndroidManifest.xml:32:25-66
+77            </intent-filter>
+78        </activity>
+79
+80        <provider
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+81            android:name="androidx.startup.InitializationProvider"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:25:13-67
+82            android:authorities="com.makeshop.podbbang.shared.test.androidx-startup"
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:26:13-68
+83            android:exported="false" >
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:27:13-37
+84            <meta-data
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+86                android:value="androidx.startup" />
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+87        </provider>
+88
+89        <receiver
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+90            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+91            android:directBootAware="false"
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+92            android:enabled="true"
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+93            android:exported="true"
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+94            android:permission="android.permission.DUMP" >
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+96                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+97            </intent-filter>
+98            <intent-filter>
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+99                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+100            </intent-filter>
+101            <intent-filter>
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+102                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+103            </intent-filter>
+104            <intent-filter>
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+105                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/podbbang/.gradle/caches/8.9/transforms/4e4556f39228c92da6c23f349eefb9bb/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+106            </intent-filter>
+107        </receiver>
+108
+109        <service
+109-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/38158162ce4b932ee2e00124302903f5/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:29:9-35:19
+110            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+110-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/38158162ce4b932ee2e00124302903f5/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:30:13-103
+111            android:exported="false" >
+111-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/38158162ce4b932ee2e00124302903f5/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:31:13-37
+112            <meta-data
+112-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/38158162ce4b932ee2e00124302903f5/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:32:13-34:39
+113                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+113-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/38158162ce4b932ee2e00124302903f5/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:33:17-94
+114                android:value="cct" />
+114-->[com.google.android.datatransport:transport-backend-cct:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/38158162ce4b932ee2e00124302903f5/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:34:17-36
+115        </service>
+116        <service
+116-->[com.google.android.datatransport:transport-runtime:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/ff8a2f2dea5626975027606acf54808d/transformed/transport-runtime-3.1.3/AndroidManifest.xml:26:9-30:19
+117            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+117-->[com.google.android.datatransport:transport-runtime:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/ff8a2f2dea5626975027606acf54808d/transformed/transport-runtime-3.1.3/AndroidManifest.xml:27:13-117
+118            android:exported="false"
+118-->[com.google.android.datatransport:transport-runtime:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/ff8a2f2dea5626975027606acf54808d/transformed/transport-runtime-3.1.3/AndroidManifest.xml:28:13-37
+119            android:permission="android.permission.BIND_JOB_SERVICE" >
+119-->[com.google.android.datatransport:transport-runtime:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/ff8a2f2dea5626975027606acf54808d/transformed/transport-runtime-3.1.3/AndroidManifest.xml:29:13-69
+120        </service>
+121
+122        <receiver
+122-->[com.google.android.datatransport:transport-runtime:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/ff8a2f2dea5626975027606acf54808d/transformed/transport-runtime-3.1.3/AndroidManifest.xml:32:9-34:40
+123            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+123-->[com.google.android.datatransport:transport-runtime:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/ff8a2f2dea5626975027606acf54808d/transformed/transport-runtime-3.1.3/AndroidManifest.xml:33:13-132
+124            android:exported="false" />
+124-->[com.google.android.datatransport:transport-runtime:3.1.3] /Users/podbbang/.gradle/caches/8.9/transforms/ff8a2f2dea5626975027606acf54808d/transformed/transport-runtime-3.1.3/AndroidManifest.xml:34:13-37
+125    </application>
+126
+127</manifest>

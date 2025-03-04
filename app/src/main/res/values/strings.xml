@@ -1,0 +1,1479 @@
+<resources>
+    <string name="app_name">Podbbang</string>
+
+    <string name="bottom_nav_title_home">홈</string>
+    <string name="bottom_nav_title_ranking">랭킹</string>
+    <string name="bottom_nav_title_audiobook">오디오북</string>
+    <string name="bottom_nav_title_community">커뮤니티</string>
+    <string name="bottom_nav_title_class">클래스</string>
+    <string name="bottom_nav_title_magazine">매거진</string>
+    <string name="bottom_nav_title_media">미디어</string>
+    <string name="bottom_nav_title_musicpod">뮤직팟</string>
+    <string name="ranking_tab_realtime">실시간</string>
+    <string name="ranking_tab_daily">일간</string>
+    <string name="ranking_tab_weekly">주간</string>
+    <string name="album_art_alt">Album art</string>
+    <string name="duration_unknown">--:--</string>
+    <string name="duration_format">%d:%02d</string>
+
+    <string name="media_items_empty">Media Items Empty</string>
+    <string name="route_nowplaying" translatable="false">nowplaying</string>
+    <string name="route_settings" translatable="false">settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="enable_spatial_audio">Enable Spatial Audio</string>
+    <string name="spatial_audio_output">Spatial Audio Output:</string>
+    <string name="can_be_spatialized">canBeSpatialized: </string>
+    <string name="get_immersive_audio_level">getImmersiveAudioLevel: </string>
+    <string name="audio_level_none">None</string>
+    <string name="audio_level_multichannel">Multichannel</string>
+    <string name="audio_level_other">Other</string>
+    <string name="is_available">isAvailable: </string>
+    <string name="is_enabled">isEnabled: </string>
+    <string name="is_head_tracker_available">isHeadTrackerAvailable: </string>
+    <string name="arrowback_desc">Return to now playing screen</string>
+    <string name="settings_button_desc">Go to settings screen</string>
+    <string name="play_content_desc">Play button</string>
+    <string name="pause_content_desc">Pause button</string>
+
+    <string name="app_name_dev">팟빵개발</string>
+
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="next">다음</string>
+
+    <string name="nnew">NEW</string>
+    <string name="file_name">File name:</string>
+    <string name="file_cancel">Cancel</string>
+    <string name="create">Save</string>
+    <string name="no_data">No Data</string>
+    <string name="error">Error</string>
+
+    <string name="splash_user_info_toast_message">사용자 정보를 확인 중 입니다.</string>
+
+
+    <string name="bottom_nav_title_my">마이페이지</string>
+
+    <string name="mini_player_default_title">오늘은 뭐듣지?</string>
+    <string name="notification_channel_name">재생 플레이어</string>
+    <string name="notification_channel_description">에피소드 재생 시 상단 알림바 영역에 플레이어가 표시 됩니다</string>
+    <string name="mini_player_ad_title">광고가 재생중입니다</string>
+
+    <string name="st_reply">댓글</string>
+
+    <string name="cast_subscribe_count">구독자</string>
+    <string name="cast_like_count">좋아요</string>
+
+    <string name="copyright_symbol">&#169;%1$s</string>
+    <string name="dot_symbol">\u2022</string>
+
+    <string name="playlist_tab_count">%1$s개</string>
+    <string name="playlist_tab_count_of_episode">개의 에피소드</string>
+    <string name="audiobook_count">개 에피소드</string>
+    <string name="count_of_channel">개의 채널</string>
+
+
+    <string name="rank_time">기준</string>
+
+
+    <string name="fromlastepisode">최신회 부터</string>
+    <string name="fromfirstepisode">첫회 부터</string>
+
+    <string name="cast_playlist_episode_count">개의 에피소드</string>
+
+    <string name="cast">방송</string>
+    <string name="subscriber">구독자</string>
+    <string name="personcount">명</string>
+    <string name="playdown">재생 및 다운</string>
+
+    <string name="subscribe">구독하기</string>
+    <string name="subscribing">구독중</string>
+    <string name="listenlatestbutton">최신회 듣기</string>
+
+    <string name="gallery">갤러리</string>
+    <!--<string name="reply">댓글</string>-->
+
+    <string name="episodeplaystart">에피소드 재생을 시작합니다</string>
+
+    <string name="st_sir">님!</string>
+    <string name="st_unti_ltoday">오늘까지" "</string>
+    <string name="st_cash_sponsored">캐시가 후원 되었습니다!</string>
+    <string name="st_episode_supoort">에피소드 후원</string>
+    <string name="st_support">후원하기</string>
+    <string name="st_do_you_like_this_episode">이 에피소드가 마음에 드시나요?</string>
+
+
+    <string name="st_show_all_reply">전체 댓글 보기</string>
+    <string name="show_reply">댓글 보기</string>
+    <string name="show_past_reply">지난 댓글 보기</string>
+
+    <string name="support_msg">여러분의 작은 후원들이 모여\n보다 좋은 방송제작을 위해\n사용 됩니다.</string>
+    <string name="charge_cash_can_support">캐시를 충전하시면 후원 할 수 있어요!</string>
+    <string name="not_yet_have_reply">아직 댓글이 없습니다!</string>
+    <string name="write_first_reply">이 에피소드 첫 댓글의 주인공이 되보세요!</string>
+
+
+    <string name="no_description_cast">해당방송에 대한 소개가 없습니다.</string>
+    <string name="deleted_cast_msg">해당 방송은 운영자의 요청으로 현재 이용할 수 없습니다.</string>
+    <string name="network_not_connect_mst">해당 페이지의 접속이 지연되고 있습니다. 네트워크 연결 상태를 확인하거나, 잠시 후 다시 이용해 주세요.</string>
+    <!-- renewly ========================================================================================================= -->
+
+    <string name="need_buy_audiobook_message">이용권 구매 후 청취 가능합니다.</string>
+
+    <string name="sortingLastest">최신화부터</string>
+
+    <string name="moreshow">더보기</string>
+    <string name="more_show">더 보기</string>
+
+    <string name="episode_info">에피소드 정보</string>
+    <string name="support">후원</string>
+    <string name="regular_support">정기후원</string>
+    <string name="comment_regular_support">정기후원을 시작하였습니다!</string>
+
+    <string name="published_date">게시일</string>
+    <string name="mc">진행자</string>
+    <string name="guest">게스트</string>
+    <string name="explain">설명</string>
+    <string name="all">총</string>
+
+    <string name="write_reply_hint">방송만큼 꿀잼인 댓글 도전!</string>
+    <string name="write_reply_hint_no_reply">방송만큼 꿀잼인 댓글 도전!</string>
+
+    <string name="en_today">Today</string>
+    <string name="tomorrow_free">내일 무료</string>
+    <string name="after_free">후 무료</string>
+    <string name="day_after_free">일후 무료</string>
+
+    <string name="fail_get_data">데이터를 가져오는데 실패했습니다..</string>
+    <string name="fail_get_data_short_str">로드 실패</string>
+    <string name="fail_get_total_time">00:00</string>
+
+    <string name="earned_to_date_cash">오늘까지 적립된 후원금액</string>
+    <string name="cash">캐시</string>
+    <string name="supported">후원해주신</string>
+    <string name="thanks_for_supporters">명 모두에게 감사합니다!</string>
+
+    <string name="support_info_explain_supported_cash_use">적립된 후원금액은 좋은 방송을 제공해 드리기 위해 프로그램 제작에 사용됩니다.</string>
+
+    <string name="upload">업로드</string>
+    <string name="producer">제작자</string>
+    <string name="keyword">키워드</string>
+    <string name="homepage">홈페이지</string>
+
+    <string name="input_contents">내용을 입력해주세요.</string>
+
+    <string name="chargecomplete_msg">캐시 충전이 완료되었습니다.</string>
+    <string name="go_buy_episode_msg">에피소드를 구매하시겠습니까?</string>
+    <string name="now_buy_episode_msg">지금 구매하기</string>
+    <string name="late_buy_episode_msg">다음에 구매하기</string>
+
+    <string name="empty_episode_tab_list_msg">등록된 에피소드가 없습니다.</string>
+    <string name="empty_playlist_tab_list_msg">생성된 재생목록이 없습니다.</string>
+    <string name="last_on_list">마지막 입니다.</string>
+    <string name="last_episode_on_list">마지막 에피소드 입니다.</string>
+    <string name="back_to_top">맨위로</string>
+
+    <!-- ==================================================================== new Podbbang fixed design dimen =================================================================================== -->
+    <string name="please_be_this_episode_supporter">이 에피소드의 후원자가 되어주세요.</string>
+    <string name="plus">+</string>
+    <string name="sir">님!</string>
+    <string name="until_today">오늘까지</string>
+    <string name="person_count">명이</string>
+    <string name="support_cash">캐시가 후원되었습니다!</string>
+    <string name="highlight">하이라이트</string>
+    <string name="reply">댓글</string>
+    <string name="episode_reply">에피소드 댓글</string>
+    <string name="open_bracket">(</string>
+    <string name="close_bracket">)</string>
+    <string name="photo">사진</string>
+    <string name="show_all_reply">전체 댓글 보기</string>
+    <string name="show_all_episode_reply">에피소드 댓글 보기</string>
+    <string name="show_magazine_reply">매거진 댓글 보기</string>
+    <string name="related_episode">연관 에피소드</string>
+    <string name="streaming">스트리밍</string>
+    <string name="download">다운로드</string>
+    <string name="short_download">다운</string>
+    <string name="wait">대기중</string>
+    <string name="close">닫기</string>
+    <string name="copy_url_link">링크복사하기</string>
+    <string name="share_kakao_link">카카오톡 공유하기</string>
+    <string name="share_facebook_link">페이스북 공유하기</string>
+    <string name="share_twitter_link">트위터 공유하기</string>
+    <string name="show_in_web">웹에서 보기</string>
+    <string name="show_in_app">앱에서 보기</string>
+    <string name="do_share">공유하기</string>
+
+    <string name="episode">에피소드</string>
+    <string name="sort_new">최신회</string>
+    <string name="sort_regist">첫회</string>
+    <string name="sort_from">부터</string>
+    <string name="sort_cast_name">방송명순</string>
+    <string name="sort_user_custom">사용자순</string>
+    <string name="sort_latest_subscribe">최근 구독순</string>
+    <string name="select_turn">회차선택</string>
+    <string name="playlist_total_count">전체 재생목록</string>
+
+    <string name="year">년</string>
+    <string name="month">월</string>
+    <string name="date">일</string>
+    <string name="today">오늘</string>
+    <string name="yearbefore">년전</string>
+    <string name="monthbefore">달전</string>
+    <string name="daybefore">일전</string>
+
+    <string name="can_player_speed_change">에피소드 재생 속도를 조절할 수 있습니다.</string>
+    <string name="speed_0_5">0.5 x</string>
+    <string name="speed_0_7">0.7 x</string>
+    <string name="speed_1_0">1.0 x</string>
+    <string name="speed_1_2">1.2 x</string>
+    <string name="speed_1_5">1.5 x</string>
+    <string name="speed_2_0">2.0 x</string>
+
+    <string name="finish_episode_play_when_timed_out">에피소드 종료시간을 설정할 수 있습니다.</string>
+    <string name="timer_not_use">사용안함</string>
+    <string name="timer_until_cur_episode">현재 에피소드</string>
+    <string name="timer_5_min_after">5분 후</string>
+    <string name="timer_10_min_after">10분 후</string>
+    <string name="timer_15_min_after">15분 후</string>
+    <string name="timer_20_min_after">20분 후</string>
+    <string name="timer_30_min_after">30분 후</string>
+    <string name="timer_45_min_after">45분 후</string>
+    <string name="timer_1_hour_after">1시간 후</string>
+    <string name="timer_2_hour_after">2시간 후</string>
+    <string name="timer_state_until_cur_episode">현재까지</string>
+
+    <string name="player_last_episode">마지막 에피소드 입니다.</string>
+    <string name="player_first_episode">첫번째 에피소드 입니다.</string>
+
+    <string name="episode_type_is_empty">에피소드 파일이 없거나, 잘못된 정보 입니다.</string>
+
+    <string name="total">전체</string>
+    <string name="rank">위</string>
+
+    <string name="notice_board">게시판</string>
+    <string name="notice_board_text">이번주 업데이트 관련 공지합니다.</string>
+    <string name="survey">앙케이트</string>
+    <string name="participation">참여</string>
+    <string name="pod_tag">팟태그</string>
+
+    <string name="live_is_ongoing">라이브가 진행중입니다.</string>
+    <string name="live_is_prepared">라이브 진행 예정입니다.</string>
+    <string name="ongoing_live_is_gone">라이브가 종료되었습니다.</string>
+    <string name="tilde">~</string>
+    <string name="hyphen">-</string>
+
+    <string name="loading">로딩중...</string>
+
+    <string name="no_new_episode_in_sublist">구독중인 방송의 신규 에피소드가 없습니다.</string>
+
+    <string name="miniplayer_default_title">오늘은 뭐듣지?</string>
+    <string name="miniplayer_no_content">재생 가능한 콘텐츠가 없습니다</string>
+    <string name="connecting_player">플레이어 연결이 불안정합니다. 잠시 후에 다시 시도해주세요.</string>
+
+    <string name="time_is_not_matched">지금은 방송 시간이 아닙니다</string>
+
+    <string name="podbbang_news">팟빵 News</string>
+
+    <string name="mall_incoming_information">상회가기</string>
+
+    <string name="doing_play">재생중</string>
+    <string name="do_play">재생하기</string>
+
+    <string name="download_complete_short">다운로드됨</string>
+    <string name="download_cannot_short">다운로드 불가</string>
+    <string name="download_cannot_toast">다운로드가 불가능한 에피소드 입니다.</string>
+    <string name="download_unknown_error">파일 다운로드에 실패하였습니다. 잠시 후 다시 시도해 주세요.</string>
+    <string name="download_not_paid_error">구매하지 않은 에피소드 입니다. 구매 후 이용해 주세요.</string>
+    <string name="download_already_downloaded">이미 다운로드한 에피소드입니다.</string>
+
+    <string name="sortmode_fromfirstepisode">첫회 부터 정렬됩니다.</string>
+    <string name="sortmode_fromlastepisode">최신회 부터 정렬됩니다.</string>
+
+    <string name="start_subscript">해당 채널의 구독을 시작합니다.</string>
+    <string name="release_subscript">해당 채널의 구독을 취소했습니다.</string>
+    <string name="episode_like">에피소드 좋아요 추가</string>
+    <string name="episode_dislike">에피소드 좋아요 제거</string>
+    <string name="cast_like">방송 좋아요 추가</string>
+    <string name="cast_dislike">방송 좋아요 제거</string>
+    <string name="toast_cast_push_enable">해당 채널의 구독 알림이 설정되었습니다.</string>
+    <string name="toast_cast_push_disable">해당 채널의 구독 알림이 해제되었습니다.</string>
+    <string name="toast_all_cast_push_enable">전체 구독 채널 알림이 활성화되었습니다.</string>
+
+    <string name="recommend_theme">추천 테마</string>
+    <string name="count_of_tag">개의 태그</string>
+    <string name="notable_pod">주목할만한 팟</string>
+    <string name="notable_epi">주목할만한 에피소드</string>
+    <string name="sericeo_lecture">SERICEO 강연</string>
+    <string name="podbbang_lecture">팟빵 강연</string>
+    <string name="podbbang_auoio_book">팟빵 오디오북</string>
+    <string name="podbbang_music">팟빵 뮤직</string>
+    <string name="podbbang_original_es">팟빵 오리지널ES</string>
+
+    <string name="free">무료</string>
+    <string name="not_free">유료</string>
+
+    <string name="podbbang_original">팟빵 오리지널</string>
+    <string name="default_title">제목</string>
+
+    <string name="audio_book">오디오북</string>
+    <string name="podbbang_radio">팟빵라디오</string>
+    <string name="podbbang_live">팟빵라이브</string>
+    <string name="podbbang_busking">팟빵버스킹</string>
+    <string name="read_news">읽어주는 뉴스</string>
+    <string name="podbbang_now">팟빵 나우</string>
+
+    <string name="latest_episode">새로운 에피소드</string>
+    <string name="latest_episode_intro_text">최근 7일 간 업데이트 된 에피소드 목록 입니다.</string>
+    <string name="my_reply">내 댓글</string>
+
+    <string name="count">개</string>
+    <string name="append_count">%1$s개</string>
+
+    <string name="pod_pd_recommend">팟PD 추천</string>
+    <string name="new_hot_cast">새롭게 뜨고 있는 방송</string>
+    <string name="event">이벤트</string>
+
+    <string name="live_en">LIVE</string>
+    <string name="podbbang_mall">팟빵 상회</string>
+    <string name="terms_of_use">이용약관</string>
+    <string name="privacy_policy">개인정보 처리방침</string>
+    <string name="advertising_center">광고센터</string>
+    <string name="customer_center">고객센터</string>
+
+    <string name="mainpage_login_intro">구독방송 업데이트 소식</string>
+    <string name="mainpage_login_intro_2">님의 구독중인 방송</string>
+    <string name="mainpage_login_intro_extra">로그인하고 업데이트된 소식을 받아보세요 &gt;</string>
+
+    <string name="mainpage_freecash_logint_message">캐시구매 및 무료캐시 적립은 \n 로그인 후 이용 가능합니다</string>
+    <string name="freecash">무료캐시</string>
+
+    <string name="mainpage_login_goto_login_text">소식 받기 &gt;</string>
+
+
+    <string name="home_story_holder_title">에디터 추천 스토리</string>
+    <string name="home_story_intro_text_1">알차고 재미있는</string>
+    <string name="home_story_intro_text_2">스토리를 만나보세요!</string>
+    <string name="home_goto_story">스토리 가기</string>
+
+    <!-- bottom category item strings... -->
+    <string name="cate_total">종합</string>
+    <string name="cate_actualities_politics">시사/정치</string>
+    <string name="cate_book">도서</string>
+    <string name="cate_movie">영화</string>
+    <string name="cate_economy">경제</string>
+    <string name="cate_language">어학</string>
+    <string name="cate_edu_tech">교육기술</string>
+    <string name="cate_adult">성인</string>
+    <string name="cate_health_medicine">건강의학</string>
+    <string name="cate_baby">유아동</string>
+    <string name="cate_comedy">코미디</string>
+    <string name="cate_curture_art">문화예술</string>
+    <string name="cate_game">게임</string>
+    <string name="cate_global">세계</string>
+    <string name="cate_goverment">정부기관</string>
+    <string name="cate_hobby">취미</string>
+    <string name="cate_local">지역</string>
+    <string name="cate_music">음악</string>
+    <string name="cate_queer">퀴어</string>
+    <string name="cate_religion">종교</string>
+    <string name="cate_sports">스포츠</string>
+    <string name="cate_travel">여행</string>
+
+    <string name="edit">편집</string>
+    <string name="complete">편집 끝내기</string>
+    <string name="select">선택</string>
+
+    <string name="title">타이틀</string>
+    <string name="maker">제작자</string>
+
+    <string name="subscribe_list">구독목록</string>
+    <string name="history">히스토리</string>
+    <string name="recent_list">최신목록</string>
+    <string name="mylist">내 보관함</string>
+    <string name="mylist_setting">보관함 설정</string>
+    <string name="subscribe_information">구독목록은 로그인 후 이용 가능합니다.</string>
+    <string name="history_login_information">히스토리는 로그인 후 이용 가능합니다.</string>
+    <string name="download_login_information">다운로드는 로그인 후 이용 가능합니다.</string>
+
+    <string name="no_select">선택된 항목이 없습니다</string>
+    <string name="no_write_comment">해당 방송은 운영자 요청으로 댓글 기능이 제한 되어 있습니다</string>
+
+    <string name="sort_update">업데이트순</string>
+    <string name="sort_latest_listen">최근 청취순</string>
+    <string name="middle_dot">\u00B7</string>
+
+    <string name="mylist_setting_history_auto_delete_title">히스토리에서 자동으로 삭제</string>
+    <string name="mylist_setting_history_auto_delete_description">히스토리 목록에서 청취가 완료되거나, 다운로드 된 에피소드를 목록에서 자동으로 삭제합니다.</string>
+    <string name="mylist_setting_history_auto_delete_heard">청취를 완료한 에피소드를 삭제합니다.</string>
+    <string name="mylist_setting_history_auto_delete_download">다운로드 받은 에피소드를 삭제합니다.</string>
+
+    <string name="mylist_setting_play_on_list_cur_epi_pre_next">재생중인 방송의 에피소드 목록 기준으로 재생하기</string>
+    <string name="mylist_setting_play_on_list_cur_epi_description">**해당 기능은 네트워크 사용이 가능한 경우에만 적용됩니다. \n네트워크 사용이 불가한 경우 다운로드 목록 기준으로 재생됩니다.</string>
+
+    <string name="mylist_setting_play_on_download_list_title">다운로드 목록에서 재생</string>
+    <!--<string name="mylist_setting_play_on_download_list_description">다운로드 목록에서 에피소드 선택시 이전/다음 에피소드의 재생 순서를 설정 할 수 있습니다. 다운로드 목록 기준으로 재생시에는 다운로드 목록에서 설정하신 정렬기준으로 에피소드가 재생 되며, 플레이어 화면 내 좌측 하단 에피소드 목록은 재생중인 방송의 에피소드 기준으로 제공 됩니다.</string>-->
+    <string name="mylist_setting_play_on_download_list_description">다운로드 목록에서 에피소드 선택시 이전/다음 재생순서는 다운로드 목록에서 설정된 정렬기준 (최근순, 방송명순, 업데이트순)으로 재생 됩니다.</string>
+    <string name="mylist_setting_play_on_download_list_down_epi_pre_next">다운로드 목록 기준으로 재생하기</string>
+
+    <string name="mylist_setting_play_on_history_list_title">히스토리 목록에서 재생</string>
+    <string name="mylist_setting_play_on_history_list_description">히스토리 목록에서 에피소드 재생시 이전/다음 에피소드 재생방법을 설정 할 수 있습니다.</string>
+    <string name="mylist_setting_play_on_history_list_down_epi_pre_next">히스토리 목록에 저장된 이전/다음 에피소드 재생</string>
+
+    <string name="podbbang">팟빵</string>
+
+    <string name="select_all">전체 선택</string>
+    <string name="un_select_all">전체 해제</string>
+    <string name="cancel_subscribe">구독 취소</string>
+    <string name="delete">삭제</string>
+    <string name="re_comment">답글</string>
+    <string name="input_replyment_please">댓글을 입력해 주세요.</string>
+    <string name="plz_wait_upload_photo">사진을 업로드 중입니다. 잠시만 기다려주세요.</string>
+    <string name="plz_leave_your_opinion">여러분의 생각을 댓글로 남겨 주세요.</string>
+    <string name="registration">등록</string>
+    <string name="write_reply">댓글쓰기</string>
+    <string name="this_reply_blinded_by_operator">해당 댓글은 방송운영자에 의해 블라인드 되었습니다.</string>
+    <string name="this_reply_blinded_by_podbbang">해당 댓글은 팟빵 댓글 정책에 위반되어 블라인드 되었습니다.</string>
+    <string name="this_reply_blinded">해당 댓글은 블라인드 처리 되었습니다.</string>
+    <string name="this_reply_is_deleted">삭제 된 댓글 입니다.</string>
+    <string name="cannot_write_recomment">답글을 작성하실 수 없습니다.</string>
+    <string name="reply_realname">본인인증이 되지 않아 답글 작성이 불가능합니다.</string>
+
+    <string name="this_is_deleted_reply">삭제된 댓글 입니다.</string>
+    <string name="report">신고</string>
+    <string name="time_ago">시간 전</string>
+    <string name="minute_ago">분 전</string>
+    <string name="just_before">방금 전</string>
+
+    <string name="public_reply">공개 댓글</string>
+    <string name="prvate_reply">비공개 댓글</string>
+    <string name="reply_max_text_byte">/3,000</string>
+    <string name="reply_max_text_byte_magazine">/500</string>
+    <string name="write_reply_editor_caution_hint">광고, 욕설, 음란물, 명예훼손, 개인정보 유출, 허위사실 유포등의 타인에게 불쾌감을 주는 댓글은 삭제 될 수 있으며, 법적 제재를 받을 수 있으므로 댓글 작성에 주의를 부탁드립니다.</string>
+
+    <string name="select_to_use_app">사용할 앱 선택</string>
+
+
+    <string name="cast_sub_menu_episode_tab">에피소드</string>
+    <string name="cast_sub_menu_playlist_tab">재생목록</string>
+    <string name="cast_sub_menu_all_reply_tab">전체댓글</string>
+    <string name="cast_sub_menu_community_tab">커뮤니티</string>
+    <string name="cast_sub_menu_castinfo_tab">방송정보</string>
+
+
+    <string name="do_support">후원하기</string>
+    <string name="supportable_my_cash">후원 가능한 내 캐시</string>
+    <string name="charge_cash">캐시 충전하기</string>
+    <string name="plus_100_cash">+100캐시</string>
+    <string name="plus_1000_cash">+1,000캐시</string>
+    <string name="plus_10000_cash">+10,000캐시</string>
+    <string name="plz_input_support_message">후원 메시지를 입력해 주세요.</string>
+    <string name="support_message_default_message">좋은 방송 제작에 사용해주세요!</string>
+    <string name="if_you_not_input_youre_message_show_default_message">후원 메시지를 작성하지 않으면 기본 메시지가 노출 됩니다.</string>
+    <string name="introduce">[안내]</string>
+    <string name="support_intro_1">\u00B7 후원은 구매하신 캐시 또는 이벤트로 지급된 캐시만 사용 가능합니다.</string>
+    <string name="support_intro_2">\u00B7 청취시 적립되는 무료 캐시는 후원에 사용 할 수 없습니다.</string>
+    <string name="support_intro_3">\u00B7 후원금액은 최소 100캐시 이상 사용 가능 합니다.</string>
+    <string name="support_intro_4">\u00B7 후원에 사용된 캐시는 취소 및 환불 되지 않습니다.</string>
+    <string name="plz_input_support_cash">후원금액을 입력해 주세요.</string>
+    <string name="sponsorship_amount">후원금액</string>
+    <string name="sponsors">후원해주신 분</string>
+    <string name="give_a_support_cash">를 후원합니다!</string>
+    <string name="give_support_total">총</string>
+    <string name="give_best_support_casth">를 후원해주셔서\n후원왕으로 선정 되었습니다!</string>
+    <string name="cumulative_amount">누적 후원금액</string>
+    <string name="go_to_support">후원하러 가기</string>
+    <string name="sponsor_king">후원왕</string>
+    <string name="persons">명</string>
+    <string name="thank_you">감사합니다.</string>
+    <string name="cash_is_sponsored">가 후원 되었습니다.</string>
+    <string name="support_order">번째 후원 참여자</string>
+
+    <string name="confirm">확인</string>
+    <string name="confirm_support_intro_1">후원내역은</string>
+    <string name="confirm_support_intro_2">마이페이지 <![CDATA[>]]> 후원내역</string>
+    <string name="confirm_support_intro_3">에서 확인 가능 합니다.</string>
+
+    <string name="setting">설정</string>
+    <string name="setting_app_version">버전 정보</string>
+    <string name="setting_app_version_en">version</string>
+    <string name="setting_theme">화면 모드</string>
+    <string name="setting_theme_dark">다크 모드</string>
+    <string name="setting_theme_light">화이트 모드</string>
+    <string name="setting_data_use">데이터 설정</string>
+    <string name="setting_data_3g_lte_streaming_and_download_accept">3G/LTE 스트리밍 및 다운로드 허용</string>
+    <string name="setting_delete_temp_data">불필요한 데이터 삭제하기</string>
+    <string name="setting_download_and_play">다운로드 및 재생 설정</string>
+    <string name="setting_auto_download_subscribe_cast_new_episode">구독방송의 새 에피소드 자동 다운로드</string>
+    <string name="setting_use_environment">사용 환경</string>
+    <string name="setting_use_splash">시작 시 추천 화면 사용</string>
+    <string name="setting_use_splash_message">앱 시작 시 팟빵에서 추천하는 화면이 보여집니다.</string>
+    <string name="setting_use_theme_dark">다크 모드 사용</string>
+    <string name="setting_use_theme_dark_message">눈부심없이 화면을 볼 수 있도록 어두운 테마를 적용합니다.</string>
+    <string name="setting_notification">알림 설정</string>
+    <string name="setting_event_notification">이벤트 알림</string>
+    <string name="setting_event_notification_description">이벤트 및 추천 콘텐츠에 대한 알림을 받을 수 있습니다.</string>
+    <string name="setting_subscribe_cast_notification">구독 채널 알림</string>
+    <string name="setting_subscribe_cast_notification_description">구독중인 채널 활동에 대한 알림을 받을 수 있습니다.</string>
+    <string name="setting_subscribe_magazine_notification">구독 매거진 알림</string>
+    <string name="setting_subscribe_magazine_notification_description">구독중인 매거진 활동에 대한 알림을 받을 수 있습니다.</string>
+    <string name="setting_app_info">앱 정보</string>
+
+
+    <string name="setting_auto_download_subscribe_cast_new_episode_description">
+    wifi 환경에서 구독방송 업데이트 알림이 수신 된 경우, 신규 에피소드가 자동으로 다운로드 됩니다.
+    단, 자동 다운로드 진행중 3G/LTE로 전환 되는 경우에는 데이터 소모가 발생 될 수 있으며,
+    구독알림이 OFF로 설정되어 있거나, 업데이트 알림이 수신 되지 않은 경우에는 다운로드 되지 않습니다.
+    다운로드 된 에피소드는 보관함 <![CDATA[>]]> 다운로드 에서 확인 가능하며 데이터 차감 없이 청취 가능 합니다.
+    </string>
+
+    <string name="notification">알림</string>
+    <string name="notification_information">최근 30일 알림 내역만 확인 가능합니다.</string>
+    <string name="notification_empty">최근 30일동안 받은 알림이 없습니다.</string>
+
+    <string name="please_login_alert_msg">회원가입 후 청취하면\n매월 3,000캐시가 무료!\n지금 바로 로그인 하시겠어요?</string>
+    <string name="go_login_btn">로그인 하기</string>
+
+    <string name="setting_auto_download_subscribe_cast_new_episode_description_2">* 유료콘텐츠, 동영상, PDF파일은 자동 다운로드 되지 않습니다.</string>
+    <string name="setting_path_of_download">다운로드 파일 저장 위치</string>
+    <string name="setting_path_of_download_default">/Podbbang/download</string>
+    <string name="setting_path_of_download_description">유료에피소드는 지정된 다운로드 경로와 상관 없이\n기본 폴더로 다운로드 됩니다.</string>
+    <string name="setting_use_lock_screen">잠금화면 사용</string>
+    <string name="setting_tracking_player">플레이어 구간이동 설정</string>
+    <string name="setting_tracking_player_description">플레이어 화면에서 구간 이동 시간을 설정 할 수 있습니다.</string>
+    <string name="setting_tracking_5sec_prev_next_move">5초 앞/뒤로 이동</string>
+    <string name="setting_tracking_10sec_prev_next_move">10초 앞/뒤로 이동</string>
+    <string name="setting_tracking_15sec_prev_next_move">15초 앞/뒤로 이동</string>
+    <string name="setting_tracking_30sec_prev_next_move">30초 앞/뒤로 이동</string>
+    <string name="setting_dark_mode">다크 모드</string>
+    <string name="en_on">ON</string>
+    <string name="en_off">OFF</string>
+
+    <string name="subscribe_update_alert">구독방송 업데이트 알림</string>
+    <string name="setting_all_cast_notification">전체 채널 알림 설정</string>
+    <string name="setting_individual_cast_notification">개별 채널 알림 설정</string>
+    <string name="setting_all_cast_notification_description">전체 알림 설정하시면 채널별 알림 설정을 하실 수 있습니다.</string>
+    <string name="setting_subscribed_cast_empty">구독중인 채널이 없습니다.</string>
+    <string name="setting_all_cast_notification_dialog_title">채널 알림 설정을 하시려면\n전체 채널 알림 설정이 필요합니다.</string>
+    <string name="setting_all_cast_notification_dialog_description">현재 전체 채널 알림이 꺼져 있습니다.\n설정에서 전체 채널 알림을 켜주세요.</string>
+
+
+    <string name="make_folder">폴더 만들기</string>
+    <string name="plz_input_new_folder_name">폴더명을 입력해 주세요.</string>
+    <string name="this_dir_already_exists">이 폴더는 이미 존재합니다.</string>
+    <string name="make_folder_error">폴더 생성 중 에러가 발생했습니다.</string>
+    <string name="cannot_save_download_files">해당 폴더에는 파일을 저장할 수 없습니다.</string>
+    <string name="cannot_make_new_folder">해당 저장 공간에는 폴더를 생성할 수 없습니다.</string>
+    <string name="not_enough_to_save_download_files">저장 공간이 충분하지 않습니다.</string>
+    <string name="change_download_files_save_path">다운로드 저장 경로가 변경되었습니다.</string>
+
+    <string name="storage">저장소</string>
+    <string name="internal_storage">내부 저장소</string>
+    <string name="en_sd_card">SD Card</string>
+
+    <string name="plz_login">로그인하세요</string>
+    <string name="login">로그인</string>
+    <string name="do_login">로그인하기</string>
+    <string name="auth_realname">인증하기</string>
+    <string name="hamburger_login_intro">팟빵의 다양한 서비스를 이용해 보세요!</string>
+    <string name="my_write">내가 쓴 글</string>
+    <string name="like">좋아요</string>
+    <string name="my_cash">내 캐시</string>
+    <string name="give_a_gift">선물하기</string>
+    <string name="my_cast">내 방송</string>
+    <string name="auto_support_list">정기결제 내역</string>
+    <string name="my_qna_list">나의 문의내역</string>
+    <string name="home">홈</string>
+    <string name="ranking">순위</string>
+    <string name="story">스토리</string>
+    <string name="recommend">추천</string>
+
+    <string name="category">카테고리</string>
+    <string name="drive_mode">드라이브 모드</string>
+    <string name="podbbang_audio_book">팟빵 오디오북</string>
+    <string name="podbbang_sericeo">SERICEO 강연</string>
+    <string name="podbbang_hall_event">팟빵홀 행사/대관문의</string>
+    <string name="podbbang_hall_schedule">팟빵홀 일정</string>
+    <string name="podbbang_school">팟빵스쿨</string>
+    <string name="creator_club">크리에이터 클럽</string>
+    <string name="notice">공지사항</string>
+    <string name="notice_short">공지</string>
+    <string name="question">1:1문의</string>
+    <string name="faq">FAQ</string>
+    <string name="cache_clear_message">불필요한 데이터 삭제를 위해\n팟빵앱이 재시작 됩니다</string>
+    <string name="mypage">마이페이지</string>
+    <string name="side_title">전체메뉴</string>
+    <string name="side_do_login">로그인하기</string>
+    <string name="cash_charge">캐시충전소</string>
+    <string name="my_service">내서비스</string>
+    <string name="side_info_title">안내/기타</string>
+    <string name="frequently_asked_questions">자주묻는질문</string>
+    <string name="do_question">문의하기</string>
+    <string name="side_policy_title">약관/정책</string>
+    <string name="youth_protection_policy">청소년보호정책</string>
+    <string name="notification_new_tooltip">알림 기능이 추가되었어요!</string>
+
+    <string name="login_type_facebook">페이스북 간편 가입 계정</string>
+    <string name="login_type_kakao">카카오 간편 가입 계정</string>
+    <string name="login_type_naver">네이버 간편 가입 계정</string>
+    <string name="login_type_twitter">트위터 간편 가입 계정</string>
+    <string name="login_type_apple">애플 간편 가입 계정</string>
+    <string name="login_type_email">이메일 가입 계정</string>
+    <string name="login_type_google">구글 간편 가입 계정</string>
+
+    <string name="ranking_cate_realtime">실시간</string>
+    <string name="ranking_cate_day">일간</string>
+    <string name="ranking_cate_week">주간</string>
+    <string name="ranking_cate_pay">유료</string>
+    <string name="ranking_cate_populate_pay">인기유료</string>
+    <string name="ranking_cate_weekly">주간순위</string>
+    <string name="ranking_sort_total">종합</string>
+    <string name="ranking_top">TOP 1000</string>
+    <string name="ranking_top_30">TOP 30</string>
+    <string name="ranking_top_100">TOP 100</string>
+    <string name="ranking_top_200">TOP 200</string>
+    <string name="ranking_top_1000">TOP 1000</string>
+    <string name="ranking_last_item">마지막 순위 입니다.</string>
+
+    <string name="ranking_realtime_alert">실시간 순위는 1시간 동안의 청취수(스트리밍/다운로드), 구독자수, 댓글수, 좋아요수 등의 순위 데이터를 집계하여 산정되며,매시간 30분에 새로운 순위가 반영 됩니다.\n※ 실시간 순위는 1시간 동안의 데이터로 집계하기 때문에 100위 까지 순위가 제공 되지 않을 수 있습니다.</string>
+    <string name="ranking_daily_alert"> 일간 순위는 전일 1일동안의 청취수(스트리밍/다운로드), 구독자수, 댓글수, 좋아요수 등의 순위 데이터를 집계하여 산정되며,매일 00시에 새로운 순위가 반영 됩니다.</string>
+    <string name="ranking_pay_alert">유료 순위는 전일 1일동안의 구매건수, 구매금액 등의 순위 데이터를 집계하여 산정되며, 매일 00시에 새로운 순위가 반영 됩니다.</string>
+    <string name="ranking_weekly_alert">종합순위\n\n종합순위는 실시간, 일간 TOP1000 순위 정보를 제공 합니다.
+        \n\u00B7 실시간 종합 순위 : 1시간 동안의 전체 방송의 순위 데이터를 집계하여 산정되며, 매시간 30분에 새로운 순위가 반영 됩니다.
+        \n\u00B7 일간 종합 순위 : 전일 1일 동안의 전체 방송의 순위 데이터를 집계하여 산정되며, 매일 00시에 새로운 순위가 반영 됩니다.
+    </string>
+
+
+    <string name="event_progress">진행중인 이벤트</string>
+    <string name="event_end">종료된 이벤트</string>
+    <string name="event_empty">이벤트가 없습니다.</string>
+
+    <string name="buy_ticket">이용권 구매</string>
+    <string name="complete_buy_epi_or_ticket">구매완료</string>
+    <string name="channel_ticket_title">채널 이용권 구매</string>
+    <string name="what_channel_ticket">채널 이용권은?</string>
+    <string name="what_channel_ticket_description">이용권을 구매한 채널에 업로드 되는 모든 유료에피소드를 매번 충전하고 구매할 필요 없이, 단 한번의 결제로 무제한 이용 가능한 상품입니다.</string>
+    <string name="channel_ticket">채널이용권</string>
+    <string name="update">업데이트</string>
+    <string name="price">가격</string>
+    <string name="need_cash">부족한 캐시</string>
+    <string name="agree_buy">위 내용을 확인 하였으며, 구매진행에 동의 합니다.</string>
+    <string name="buy">구매하기</string>
+    <string name="channel">채널</string>
+    <string name="ticket">이용권</string>
+    <string name="to_buy_channel_ticket">채널 이용권 구매 후 청취 가능합니다.</string>
+    <string name="already_buy_channel_ticket">채널 이용권으로 청취중인 채널 입니다.</string>
+    <string name="can_not_buy_channel_ticket">죄송합니다. 해당 방송은 운영자 요청으로 구매할 수 없습니다.</string>
+    <string name="episode_finish_expected">연재예정</string>
+    <string name="episode_finish">연재완료</string>
+    <string name="episode_complete">완결</string>
+    <string name="every_week">매주</string>
+    <string name="occasional">비정기</string>
+    <string name="episode_on_going">연재중</string>
+    <string name="episode_unit">편</string>
+    <string name="ticket_disable_buy">구매불가</string>
+    <string name="can_listen_after_buy_ticket">이용권 구매 후 청취 가능합니다.</string>
+    <string name="can_not_play_pay">해당 유료 에피소드를 재생할 수 없습니다.</string>
+    <string name="can_not_play_downloaded_magazine">정기 구독 또는 매거진 구매 후 청취가능합니다.\n\n이미 구매완료 혹은 구독 중 이시라면, 다운로드한 에피소드는 삭제, 새로 다운로드 받으신 후 이용 가능합니다.</string>
+
+    <string name="buy_voucher">이용권 구매</string>
+    <string name="unlimited">무제한</string>
+    <string name="impossible">불가</string>
+    <string name="voucher_info_title">구매 및 유의사항</string>
+    <string name="voucher_info_des1">\u00B7 구매하신 이용권은 업로드 되는 모든 에피소드를 추가 구매 없이 무제한 이용이 가능한 상품이며, 오디오북과 일부 방송의 경우 콘텐츠 보호를 위해 다운로드 기능은 제공하지 않습니다.</string>
+    <string name="voucher_info_des2">\u00B7 구매하신 이용권은 해당 방송에서만 이용 가능 하며, 방송별로 각각의 이용권을 별도 구매 해야 합니다.</string>
+    <string name="voucher_info_des3">\u00B7 콘텐츠를 이용(청취)하지 않은 경우에 한 해 구매일로부터 7일이내 구매취소(환불)이 가능 합니다.</string>
+    <string name="voucher_info_des3_1">- 구매취소 방법 : 팟빵 고객센터 1:1문의 접수</string>
+    <string name="voucher_info_des3_2">- 구매취소(환불) 접수일로 부터 5영업일 이내 구매시 사용하신 동일한 결제 수단으로 환불 처리 됩니다.(단, 결제수단에 따라 부득이하게 처리 일이 지연 될 수 있습니다.)</string>
+    <string name="voucher_info_des4">\u00B7 만 19세 미만의 미성년자인 이용자는 법정대리인이 동의를 받지 않은 경우 구매가 불가능 하며, 동의를 받지 않고 구매한 경우 미성년자 본인 또는 법정대리인이 구매를 취소 할 수 있습니다.</string>
+    <string name="voucher_info_des5">\u00B7 구매일로 부터 7일 이후 또는 콘텐츠 이용(청취)내역이 있는 경우 콘텐츠 이용(청취) 시간과 상관 없이 전자상거래 등에서의 소비자보호에 관한 법률, 콘텐츠산업진흥법 등 관련법령에 따라 구매취소(환불)가 제한 됩니다.</string>
+    <string name="voucher_info_des6">\u00B7 방송운영자의 의사 및 프로모션에 따라 판매 가격이 변경 될 수 있으며, 가격 변경의 이유로 구매 취소(환불)는 불가 합니다.</string>
+    <string name="voucher_info_des7">\u00B7 팟빵에 등록된 콘텐츠에 대한 저작권은 방송운영자에게 있으며, 콘텐츠의 내용 또는 품질에 대해서 일체의 책임을 지지 않으며, 해당 사유로 인한 구매 취소(환불)는 불가 합니다.</string>
+    <string name="voucher_info_des8">\u00B7 방송운영자의 사정에 따라 연재 되는 에피소드 수량이 변동 되거나 업데이트가 지연될 수 있으며, 해당 사유로 인한 구매 취소(환불)는 불가 합니다.</string>
+    <string name="voucher_info_des9">\u00B7 이용권을 구매한 후 회원탈퇴시 개인정보 및 구매내역은 모두 삭제 되므로, 재가입 후 이용권의 복구 및 환불은 불가능 합니다.</string>
+    <string name="voucher_info_des10">\u00B7 구매하신 이용권은 양도 및 다른 아이디로 이전되지 않습니다.</string>
+    <string name="voucher_info_des11">\u00B7 프로모션 이용권으로 이용중인 경우 환불 대상이 아닙니다.</string>
+
+
+    <string name="complete_buy_channel_ticket">이용권 구매가 완료 되었습니다.</string>
+    <string name="cancel_buy_channel_ticket">이용권 구매가 취소되었습니다.</string>
+    <string name="did_not_agree_to_buy">구매 진행에 동의 하지 않았습니다.</string>
+
+    <string name="pay_content_done_asking_play">유료콘텐츠 구매가 완료 되었습니다.\n구매하신 유료콘텐츠를 지금 청취 하시겠습니까?</string>
+    <string name="listen_now">지금듣기</string>
+    <string name="is_already_buy_this_episode">이미 구매한 에피소드입니다.</string>
+    <string name="disable_buy_this_episode">구매할 수 없는 에피소드입니다.</string>
+
+
+    <string name="play_disable_guide">다운로드 파일 또는 네트워크가 불안정하여 재생을 할 수 없습니다.\n다운로드 받으신 파일을 삭제하시거나 네트워크 환경이 원활한 상태에서 다시 시도 해주세요.</string>
+    <string name="fail_to_userinfo_api_call_guide">로그인 정보 오류로 인하여 정상적인 데이터를 수신하지 못하였습니다.\n잠시후 다시 시도 해주시기 바랍니다.\n반복적으로 발생시 앱 재설치 후 이용해 주시길 바랍니다.</string>
+    <string name="force_logout_guide">로그인 정보가 유효하지 않아 로그아웃 처리 합니다.</string>
+    <string name="fail_to_member_api_call_guide">로그인 하신 회원정보를 확인 할 수 없습니다.\n다시 시도해 주세요.</string>
+    <string name="fail_to_fail_login_logic_guide">요청하신 작업을 완료 할 수 없습니다.\n다시 로그인 후 이용 해주세요.</string>
+    <string name="fail_to_load_player_resource">재생할 수 없습니다.</string>
+
+    <string name="you_can_listen_after_buy_a_channel_ticket">채널 이용권을 구매 해보세요!</string>
+    <string name="you_can_listen_after_buy_a_audio_book_ticket">채널이용권 구매 후 청취 가능 합니다.</string>
+    <string name="to_buy">구매하기</string>
+    <string name="you_are_listen_by_channel_ticket">채널 이용권으로 청취 중인 채널입니다.</string>
+    <string name="ticket_end_message">판매가 종료된 채널입니다.</string>
+
+    <string name="buy_a_ticket">이용권 구매</string>
+    <string name="introduce_cast">방송소개</string>
+    <string name="cast_infomation_title">방송정보</string>
+
+    <string name="audio_book_info_list_tab_title">오디오북 정보</string>
+    <string name="audio_book_episode_list_tab_title">에피소드 듣기</string>
+
+
+    <string name="use_cash">캐시 사용</string>
+    <string name="usable_cash">사용가능 캐시</string>
+    <string name="has_cash">보유 캐시</string>
+    <string name="by_using_cash">캐시를 사용하여</string>
+    <string name="proceed_episode_payment">에피소드를 결제합니다.</string>
+    <string name="use_cash_dialog_caution">콘텐츠를 무단으로 전제 및 복제, 배포는 저작권자의 권리를 침해하는 행위로 그에 대한 책임은 본인에게 있습니다.</string>
+    <string name="cash_is_not_enough">캐시가 부족하네요!</string>
+    <string name="you_can_buy_after_charge_cash">캐시 충전 후 구매 가능합니다.</string>
+    <string name="earned">적립 되었습니다!</string>
+    <string name="postposition_ga">가</string>
+
+    <string name="description">설명</string>
+
+    <string name="category_select">카테고리 선택</string>
+
+
+    <string name="monday">월요일</string>
+    <string name="tuesday">화요일</string>
+    <string name="wednesday">수요일</string>
+    <string name="thursday">목요일</string>
+    <string name="friday">금요일</string>
+    <string name="saturday">토요일</string>
+    <string name="sunday">일요일</string>
+
+    <string name="smonday">월</string>
+    <string name="stuesday">화</string>
+    <string name="swednesday">수</string>
+    <string name="sthursday">목</string>
+    <string name="sfriday">금</string>
+    <string name="ssaturday">토</string>
+    <string name="ssunday">일</string>
+
+    <string name="ticket_price_label">원</string>
+
+    <string name="sort_state_sales">매출순</string>
+    <string name="sort_state_popular">인기순</string>
+    <string name="sort_state_realtime">실시간</string>
+    <string name="sort_state_daily">일간</string>
+
+    <string name="new_pod">신규팟</string>
+    <string name="recommend_pod">추천팟</string>
+    <string name="listen_first_episode">첫회듣기</string>
+    <string name="listen_next_episode">이어듣기</string>
+    <string name="listen_playing">재생중</string>
+
+    <string name="recommend_cast">추천 방송</string>
+    <string name="first_episode">첫회</string>
+
+    <string name="category_sort_subscribe">구독순</string>
+    <string name="category_sort_recent_episode">업데이트순</string>
+    <string name="category_sort_new_cast">신규방송순</string>
+
+    <string name="category_sort_popularity">인기 순</string>
+    <string name="category_sort_like">좋아요 순</string>
+    <string name="category_sort_comment">댓글 순</string>
+
+    <string name="can_not_use_not_adult">만 19세 미만은 이용 할 수 없습니다.</string>
+    <string name="auth_adult">성인인증</string>
+    <string name="auth_adult_description_1">성인 카테고리는 청소년 유해매체물로서 정보통신망 이용촉진, 청소년보호 등에 관한 법률 및 청소년보호법 규정에 의해 만 19세 미만의 청소년이 이용 할 수 없습니다.</string>
+    <string name="auth_adult_description_2">성인 카테고리를 이용하기 위해서는 최초 1회에 한하여 성인 여부 확인을 위해 모바일 실명인증이 필요합니다.</string>
+    <string name="auth_adult_description_2_1">성인 카테고리를 이용하기 위해서는 최초 1회에 한하여 성인 여부 확인을 위해 </string>
+    <string name="auth_adult_description_2_2">모바일 실명인증</string>
+    <string name="auth_adult_description_2_3">이 필요합니다.</string>
+    <string name="mobile_auth_realname">모바일 실명인증</string>
+    <string name="auth_adult_description_3">모바일 실명인증은 본인 명의 휴대폰으로 인증가능 하며, 해외거주자 및 본인인증을 할 수 없는 회원은 팟빵 고객센터로 문의해주시길 바랍니다.</string>
+    <string name="goto_mobile_auth_realname">모바일 실명인증 하기</string>
+    <string name="exit_less_19_age">19세 미만 나가기</string>
+    <string name="need_to_login">로그인이 필요 합니다.</string>
+    <string name="go_to_login">로그인 하러 가기</string>
+
+    <string name="logout">로그아웃</string>
+    <string name="logout_message">로그아웃 전에 체크해주세요\!\n\n로그아웃 하면 다운로드한 유료\/성인 에피소드는 \[보관함\>다운로드\] 에서 모두 삭제됩니다.</string>
+
+    <string name="search_edittext_hint">검색어를 입력해 주세요.</string>
+    <string name="no_has_search_history">최근 검색어가 없습니다.</string>
+    <string name="recent_search">최근 검색어</string>
+    <string name="delete_search_history">검색 기록 삭제</string>
+
+    <string name="search_total">통합</string>
+    <string name="search_cast">방송</string>
+    <string name="search_episode">에피소드</string>
+
+    <string name="hint_input_id">아이디 입력 (이메일)</string>
+    <string name="hint_input_pw">비밀번호 입력</string>
+    <string name="auto_log_in">자동 로그인</string>
+
+    <string name="login_to_kakao">카카오로 로그인</string>
+    <string name="login_to_naver">네이버로 로그인</string>
+    <string name="login_to_facebook">페이스북으로 로그인</string>
+    <string name="login_to_twitter">X (구 Twitter)로 로그인</string>
+    <string name="login_to_apple">Apple로 로그인</string>
+    <string name="login_to_google">구글로 로그인</string>
+    <string name="email">이메일</string>
+    <string name="facebook">페이스북</string>
+    <string name="twitter">트위터</string>
+    <string name="kakao">카카오</string>
+    <string name="naver">네이버</string>
+    <string name="apple">Apple</string>
+    <string name="start_login_to">으로 로그인</string>
+    <string name="start_login_to_2">로 로그인</string>
+    <string name="start_join_to">으로 가입하기</string>
+    <string name="start_join_to_2">로 가입하기</string>
+    <string name="sign_in">회원가입</string>
+    <string name="confirm_id_or_pw">아이디 또는 비밀번호를 확인해 주세요!</string>
+    <string name="alert_login">로그인 되었습니다.</string>
+    <string name="alert_logout">로그아웃 되었습니다.</string>
+    <string name="login_to_email">이메일로 로그인</string>
+    <string name="hint_input_email">이메일을 입력해주세요.</string>
+    <string name="password">비밀번호</string>
+    <string name="hint_input_password">비밀번호를 입력해주세요.</string>
+    <string name="join_sns_title">추가 정보 입력</string>
+    <string name="essential_with_bracket">(필수)</string>
+    <string name="optional_with_bracket">(선택)</string>
+    <string name="accept_all_terms">전체 약관 동의</string>
+    <string name="terms_and">및</string>
+    <string name="accept">동의</string>
+    <string name="over_14_years_old">만 14세 이상입니다.</string>
+    <string name="over_14_years_old_description">14세 미만은 문의하기를 통해 보호자 동의 후 가입 가능합니다.</string>
+    <string name="consent_to_receive_event_notifications">혜택/이벤트 알림 수신 동의</string>
+    <string name="must_agree_description">필수 동의 항목에 모두 동의하셔야 합니다.</string>
+    <string name="do_join">가입하기</string>
+    <string name="cancel_join_confirm_title">회원 가입을 취소하시겠습니까?</string>
+    <string name="cancel_join_confirm_description">회원 가입을 통해 다양한 해택을 누리세요.</string>
+    <string name="yes_cancel">네, 취소할래요</string>
+    <string name="alert_invalid_email">이메일 형식이 맞지 않습니다.</string>
+    <string name="sign_up_success">회원 가입이 완료되었습니다.</string>
+    <string name="join_sns_email_additional_description">이용자 문의 및 불편사항 처리시 사용할 이메일 주소입니다.</string>
+    <string name="dialog_over_14_years_old_title">만 14세 이상이신가요?</string>
+    <string name="dialog_over_14_years_old_description">만 14세미만은 보호자의 동의가 필요합니다.</string>
+    <string name="dialog_cancel_certification_title">본인 인증을 취소하시겠어요?</string>
+    <string name="dialog_cancel_certification_description">본인 확인이 되지 않으면 서비스 이용이 불가합니다.</string>
+    <string name="user_certification">본인인증</string>
+    <string name="request_certification_title">팟빵 이용약관 변경에 따라 로그인 시,\n본인 확인(최초 1회)이 필요합니다.</string>
+    <string name="request_certification_description">본인 명의의 휴대폰으로 인증을 진행해주세요.</string>
+    <string name="essential_with_square_brackets">[필수]</string>
+    <string name="request_certification_agree1">개인정보 취급 방침</string>
+    <string name="request_certification_agree2">에 동의합니다.</string>
+    <string name="request_certification_agree">[필수]개인정보 취급 방침에 동의합니다.</string>
+    <string name="request_certification_overseas">해외 거주자는 고객센터로 문의해주시기 바랍니다.</string>
+    <string name="phone_certification">휴대폰 인증</string>
+    <string name="success_certification">본인인증이 완료되었습니다.</string>
+    <string name="guardian_agreement">보호자(법정대리인)동의</string>
+    <string name="guardian_agreement_title">만 14세 미만의 어린이는\n관련 법령에 따라 법정 대리인(보호자)의 동의 절차를\n최초 1회 거쳐야 서비스 이용이 가능합니다.</string>
+    <string name="guardian_agreement_description">법정대리인의 휴대폰으로 인증을 진행해주세요.</string>
+    <string name="guardian_agreement_description_2">보호자(법정대리인) 휴대폰으로 인증을 진행해주시기 바랍니다.</string>
+    <string name="name">이름</string>
+    <string name="hint_input_name">본인의 이름을 입력해주세요.</string>
+    <string name="invalidate_name">한글로 5글자 이내로 입력해주세요.(특수문자, 공백 사용 불가)</string>
+    <string name="birthday">생년월일</string>
+    <string name="hint_input_birthday">본인 생년월일 입력 예시) 20120101</string>
+    <string name="invalidate_birthday">생년월일 정보를 확인해주세요.</string>
+    <string name="invalidate_birthday_length">생년월일은 숫자 8자리로 입력해주세요.</string>
+    <string name="invalidate_birthday_over">만 14세 미만이 아닙니다.</string>
+    <string name="gender">성별</string>
+    <string name="male">남자</string>
+    <string name="female">여자</string>
+    <string name="agree_service_guardian">본인은 만 14세 미만 이용자의 법정 대리인임을 확인하며, 해당 이용자의 서비스 이용에 동의합니다.</string>
+    <string name="agree_privacy_policy_guardian">법정대리인의 개인정보를 수집 및 이용하는 것에 동의합니다.</string>
+    <string name="guardian_phone_certification">법정대리인 휴대폰 인증</string>
+    <string name="success_guardian_certification">법정대리인(보호자) 동의가 완료되었습니다.</string>
+    <string name="invalid_request">잘못된 요청입니다.</string>
+
+
+    <string name="hint_input_sign_in_pw">비밀번호 입력(영문, 숫자, 특수문자 혼용 8~20자)</string>
+    <string name="hint_input_sign_in_pw_confirm">비밀번호 확인</string>
+    <string name="hint_input_nickname">닉네임 입력 (한글, 영문, 숫자 2~10자)</string>
+
+    <string name="sign_in_terms_des">회원 가입시 이용약관과 개인정보 취급방침에 동의하게 됩니다.</string>
+    <string name="sign_in_terms_des_1">회원 가입시</string>
+    <string name="sign_in_terms_des_2">이용약관</string>
+    <string name="sign_in_terms_des_3">과</string>
+    <string name="sign_in_terms_des_4">개인정보 취급방침</string>
+    <string name="sign_in_terms_des_5">에</string>
+    <string name="sign_in_terms_des_6">동의하게 됩니다.</string>
+    <string name="policy_show">이용약관 보기</string>
+
+    <string name="complete_sign_in">가입완료</string>
+    <string name="go_join_page">회원가입</string>
+
+    <string name="validation_input_null_id">아이디를 입력해 주세요.</string>
+    <string name="validation_input_null_pw">비밀번호를 입력해 주세요.</string>
+    <string name="validation_input_null_id_pw">아이디와 비밀번호를 입력해 주세요.</string>
+    <string name="validation_input_null_pw_confirm">비밀번호를 다시 한번 입력해 주세요.</string>
+    <string name="validation_input_null_nickname">닉네임을 입력해 주세요.</string>
+
+    <string name="validation_error_already_exist_id">이미 사용중인 아이디 입니다.</string>
+    <string name="validation_error_already_exist_nickname">이미 사용중인 닉네임 입니다.</string>
+    <string name="validation_error_empty_input">입력값을 다시 확인 해 주세요.</string>
+    <string name="validation_error_default">회원가입 실패</string>
+
+
+    <string name="validation_input_id_invalid_format">아이디는 이메일 형식으로 입력해 주세요.</string>
+    <string name="validation_input_pw_invalid_format">비밀번호는 영문, 숫자, 특수문자 혼용 8~20자로 설정 가능 합니다.</string>
+    <string name="validation_input_pw_invalid_2_combine_less_length">영문, 숫자, 특수문자 2개 조합 시 10자 이상 입력해 주세요!</string>
+    <string name="validation_input_pw_invalid_contain_blank">공백 문자를 포함할 수 없습니다.</string>
+    <string name="validation_input_pw_invalid_contain_id">아이디를 포함할 수 없습니다.</string>
+    <string name="validation_input_pw_confirm_invalid_not_match">비밀번호가 일치하지 않습니다.</string>
+    <string name="validation_input_nickname_invalid_format">한글, 영문, 숫자 2~10자까지 입력 가능 합니다.</string>
+
+    <string name="to_auth">인증하기</string>
+    <string name="to_do_later">다음에 할게요</string>
+    <string name="success_sing_in_dialog_des_1">회원 가입이 완료 되었습니다.</string>
+    <string name="success_sing_in_dialog_des_2">아이디/비밀번호 찾기 또는</string>
+    <string name="success_sing_in_dialog_des_3">댓글, 후원, 캐시구매를 이용 하기 위해서는</string>
+    <string name="success_sing_in_dialog_des_4">본인인증이 필요 합니다.</string>
+    <string name="success_sing_in_dialog_des_5">본인인증을 하시겠습니까?</string>
+    <string name="find_id">아이디 찾기</string>
+    <string name="find_password">비밀번호 찾기</string>
+
+    <string name="fail_to_login">로그인 실패</string>
+    <string name="fail_to_regist_profile_img">이미지 등록에 실패하였습니다.</string>
+
+    <string name="profile_admin">프로필 관리</string>
+    <string name="id">아이디</string>
+    <string name="nickname">닉네임</string>
+    <string name="auth_me">휴대폰 본인인증</string>
+    <string name="need_auth_me">본인인증이 필요합니다.</string>
+    <string name="auth_complete">인증완료</string>
+    <string name="not_auth">미인증</string>
+    <string name="do_auth">인증하기</string>
+    <string name="do_auth_hint">본인인증을 해주세요.</string>
+    <string name="nickname_modify">변경</string>
+    <string name="auth_description">인증시 입력하는 정보는 인증기관의 확인과정을 거치며\n가입 완료 전까지 별도 저장 되지 않습니다.</string>
+    <string name="auth_domestic">국내 사용자</string>
+    <string name="auth_foreign">해외 사용자</string>
+
+    <string name="account_delete">회원 탈퇴</string>
+    <string name="disable_delete_account_exist_channel">현재 운영중인 방송이 있어 즉시 탈퇴가 어렵습니다. 1:1문의를 통해 회원탈퇴를 진행해주시기 바랍니다.</string>
+    <string name="disable_delete_account_exist_magazine">현재 자동 결제 상품(매거진)을 이용중으로 즉시 탈퇴가 어렵습니다. 자동 결제상품 해지 후 회원탈퇴를 진행해주시기 바랍니다.</string>
+    <string name="disable_delete_account_description">고객센터(1:1문의) 로 문의하여 탈퇴를 진행해주시기 바랍니다.</string>
+    <string name="disable_delete_account">탈퇴 하실 수 없습니다.</string>
+    <string name="delete_account_success">회원 탈퇴되었습니다.</string>
+    <string name="delete_account_accept_message">위 내용을 확인하였으며, 동의합니다.</string>
+    <string name="delete_account_info_title">팟빵 회원 탈퇴시,</string>
+    <string name="delete_account_info_1">구입한 캐시(미사용 캐시 포함) 및 콘텐츠(채널, 오디오북, 에피소드), 후원 내역 등 그 외 모든 정보가 삭제되어 복구가 불가능합니다.</string>
+    <string name="delete_account_info_2">자동 결제(정기후원, 매거진) 상품을 이용중인 경우, 자동으로 해지되지 않사오니 탈퇴 전 해지 해주시기 바랍니다.</string>
+    <string name="delete_account_info_3">히스토리 및 다운로드 전체가 삭제되고, 재가입하더라도 복구되지 않습니다.</string>
+    <string name="delete_account_info_4">방송 운영자일 경우, 회원 탈퇴가 어려우니 1:1문의를 통해 회원 탈퇴를 신청해주시기 바랍니다.</string>
+    <string name="delete_account_info_5">미사용 보유 캐시에 대한 환불의 경우 탈퇴 전 아래 방법을 통해 환불 신청을 해주시기 바랍니다.</string>
+    <string name="delete_account_info_6">[환불 신청 방법]</string>
+    <string name="delete_account_info_7">팟빵 로그인후 계좌번호, 은행명, 연락처를 기재하여 help@podbbang.com으로 환불신청 메일을 보내주시기 바랍니다. (통장사본 첨부)</string>
+    <string name="delete_account_confirm_title">정말로 탈퇴하시겠습니까?</string>
+    <string name="delete_account_confirm_message">탈퇴하시면 회원님의 개인 정보 및 모든 이용정보가 즉시 삭제되며, 삭제된 정보는 다시는 복구할 수 없습니다.</string>
+    <string name="do_delete_account">탈퇴하기</string>
+
+
+    <string name="hint_nickname_input">닉네임 입력 (한글, 영문, 숫자 2~10자)</string>
+    <string name="validation_nickname_alert_modify">지금 닉네임을 변경하면 30일동안 변경하실 수 없습니다./n계속 하시겠습니까?</string>
+    <string name="validation_nickname_success">변경이 완료되었습니다.</string>
+    <string name="validation_nickname_unavailable">사용할 수 없는 문자가 포함되어 있습니다.</string>
+    <string name="validation_nickname_after_30days">30일 이후에 변경 가능합니다.</string>
+    <string name="validation_nickname_is_equal">기존과 동일한 닉네임 입니다.</string>
+    <string name="validation_nickname_same">사용 중인 닉네임입니다./n다른 닉네임을 입력하세요.</string>
+    <string name="validation_nickname_fail">닉네임 변경 실패</string>
+
+
+    <string name="num_nineteen">19</string>
+    <string name="do_delete_all_recent_search_history">최근 검색어를 모두 삭제 할까요?</string>
+
+    <string name="cast_mc">진행</string>
+    <string name="cast_maker">제작</string>
+    <string name="cast_category">카테고리</string>
+    <string name="cast_publish">방송개설</string>
+    <string name="cast_upload">업로드</string>
+    <string name="cast_keyword">키워드</string>
+
+    <string name="cast_subscribe_title">구독하기</string>
+    <string name="cast_subscribe_title_on">구독중</string>
+    <string name="cast_like_title">좋아요</string>
+
+
+    <string name="no_information">정보 없음</string>
+    <string name="go_to_write_reply">댓글 작성하기</string>
+    <string name="app_close_ad_top_text">이 광고의 후원으로 팟빵이 운영됩니다.</string>
+    <string name="finish">종료</string>
+
+    <string name="delete_recent_search_history">최근 검색어를 모두 삭제할까요?</string>
+
+    <string name="hot_pod">주목할만한 팟</string>
+    <string name="no_has_term">주기없음</string>
+    <string name="week">요일</string>
+
+    <string name="playing_advertisement_dilo">크리에이터를 지원하는 광고 재생 중</string>
+    <string name="playing_advertisement">광고 재생 중 입니다.</string>
+    <string name="playing_advertisement2">광고 중 입니다</string>
+    <string name="advertising">광고중</string>
+    <string name="second">초</string>
+    <string name="skip_en">SKIP &gt;</string>
+    <string name="skip_remain">%1$s초 후</string>
+    <string name="skip_after_seconds">초 후 SKIP</string>
+    <string name="play_after_seconds">초 후 재생</string>
+    <string name="skip">SKIP</string>
+    <string name="more_show_advertise_info">광고정보 더보기</string>
+    <string name="go_to_know">알아보기</string>
+    <string name="can_skip_after_minutes">초 뒤 광고를 건너 뛸 수 있습니다.</string>
+
+    <string name="dialog_setting_lte_text">3G/LTE 데이터 사용이 차단되어 있습니다.\n데이터 사용으로 변경하시겠습니까?</string>
+
+    <string name="no">아니오</string>
+    <string name="yes">예</string>
+
+    <string name="you_are_blinded_reply">댓글 쓰기가 차단되었습니다.</string>
+    <string name="you_are_blinded_by_podbbang"> 팟빵에 의해 댓글 쓰기가 차단되었습니다.</string>
+    <string name="you_are_blinded_by_cast_admin">방송 운영자에 의해 댓글 쓰기가 차단되었습니다.</string>
+
+    <string name="fail_to_load_data">데이터 로드 실패</string>
+    <string name="total_reply">전체 댓글</string>
+    <string name="live_reply">라이브 댓글</string>
+    <string name="live">라이브</string>
+    <string name="show_total_image">이미지 모아보기</string>
+    <string name="view_whole_reply">댓글 본문보기</string>
+    <string name="error_upload_image_fail">이미지 업로드에 실패하였습니다.</string>
+    <string name="reply_image_list_guide_msg">댓글의 이미지를 한방에 모아서 보세요!</string>
+    <string name="comment_error_read_image">이미지를 가져오는데 실패하였습니다.</string>
+    <string name="comment_error_not_image">지원하지 않는 형식의 파일입니다.</string>
+
+
+    <string name="write_recomment">답글 쓰기</string>
+    <string name="reportReply">신고</string>
+    <string name="copy_text">텍스트 복사</string>
+    <string name="report_reply">댓글 신고</string>
+    <string name="reply_blind">댓글 블라인드</string>
+    <string name="reply_modify">댓글 수정</string>
+    <string name="reply_delete">댓글 삭제</string>
+    <string name="reply_clear_information">댓글 작성을 취소하시겠습니까?</string>
+    <string name="reply_alert_check_delete">댓글을 삭제 하시겠습니까? \n삭제된 댓글은 복구 할 수 없습니다.</string>
+    <string name="reply_alert_delete_success">댓글이 삭제 되었습니다.</string>
+    <string name="reply_alert_check_blind">댓글을 블라인드 하시겠습니까? \n블라인드 된 댓글은 크리에이터스튜디오에서 해제 가능합니다.</string>
+    <string name="reply_alert_blind_success">댓글이 블라인드 되었습니다.</string>
+    <string name="copy_text_to_clipboard">클립보드에 텍스트가 복사 되었습니다.</string>
+    <string name="player_now_playing_ad_disable_msg">광고중에는 사용하실 수 없습니다.</string>
+    <string name="reply_empty_message">작성된 댓글이 없습니다.</string>
+    <string name="reply_episode_support_1">에피소드에</string>
+    <string name="reply_episode_support_2">를 후원하였습니다!</string>
+
+    <string name="event_push_success">이벤트 알림이 등록되었습니다</string>
+    <string name="event_push_fail">이벤트 알림이 취소되었습니다</string>
+
+
+    <string name="share">공유</string>
+
+    <string name="need_to_login_for_buy_not_free_episode">유료콘텐츠 구매는\n로그인 후 이용 가능 합니다.</string>
+    <string name="remain_days">일 남음</string>
+
+    <string name="available_after_login">로그인 후 이용 가능 합니다</string>
+
+    <string name="copy_link">링크가 복사 되었습니다.</string>
+
+    <string name="this_episode_is_only_streaming">이 에피소드는 스트리밍만 가능합니다.</string>
+
+    <string name="complete_reply_write">댓글 작성이 완료되었습니다.</string>
+    <string name="complete_reply_update">댓글 수정이 완료되었습니다.</string>
+    <string name="error_reply_write">댓글 작성 중 오류가 발생하였습니다.</string>
+
+
+    <string name="dialog_not_stable_network_state">현재 네트워크 연결이 원활하지 않아 재생 정보를 확인 할 수 없습니다.\n차단 해제 또는 Wi-Fi 설정 후 다시 시도해주세요.</string>
+
+
+    <string name="forceupdate">팟빵앱을 이용하기 위해서는 새로운 버전으로 업데이트 해야 합니다.</string>
+    <string name="referupdate">새로운 버전이 업데이트 되었습니다. 지금 업데이트 하시겠습니까?</string>
+    <string name="update_alert_for_buy_ticket">이용권 구매는 팟빵앱 최신 버전에서만 이용 가능 합니다.</string>
+
+    <string name="gomarket">업데이트</string>
+
+    <string name="alert_fail_to_play_downloaded_file">"다운로드 받으신 에피소드 파일에 문제가 있어 재생 할 수 없습니다.\n선택하신 에피소드를 스트리밍으로 재생 하시겠습니까?</string>
+
+    <string name="channel_auto_support_payment_date_guide_prefix">해당 채널의 정기후원이 </string>
+    <string name="channel_auto_support_payment_date_guide_suffix">자동 결제 될 예정입니다.</string>
+    <string name="mainplayer_auto_support_head_copy_1">에피소드 마다 매번 번거롭게 후원 할 필요 없이</string>
+    <string name="mainplayer_auto_support_head_copy_2">정기후원을 시작해보세요!</string>
+    <string name="mainplayer_auto_support_go_to_know">정기후원 알아보기</string>
+
+    <string name="mylist_tab_load_data_alert_message">보관함 목록을 최적화 하는 중입니다.\n이 과정에 일부 보관함 목록이 삭제될 수 있습니다.\n이 메시지가 지속적으로 확인 되는 경우 팟빵앱으로 재설치 해주세요.</string>
+
+    <string name="home_footer_extra_information">(주)팟빵 서울특별시 마포구 와우산로29길 42.\n사업자등록번호 119-81-94062 통신판매 제 2017-서울마포-1639호\n대표 김기록 · 개인정보 보호책임자 임대청\n이메일: help@podbbang.com</string>
+
+
+    <string name="rank_tabclick_log_type_hour">HOUR</string>
+    <string name="rank_tabclick_log_type_day">DAY</string>
+    <string name="rank_tabclick_log_type_pay">PAY</string>
+    <string name="rank_tabclick_log_type_week">WEEK</string>
+
+    <!-- error message -->
+    <string name="cannot_process_user_request">요청하신 작업을 처리 할 수 없습니다.</string>
+
+    <string name="please_allow_acess_download_folder_msg">에피소드 다운로드를 위해 다운로드 폴더의 엑세스 권한을 허용해주세요.\n(허용하지 않을 시 다운로드가 불가능합니다.)</string>
+
+    <!--  share SDK  -->
+    <!-- Facebook Key -->
+    <string name="facebook_app_id">418677578160027</string>
+    <string name="facebook_client_token">aa39b3ffbb5c83e78c27d7994ef021e2</string>
+    <string name="fb_login_protocol_scheme">fb418677578160027</string>
+
+    <string name="facebook_app_id_dev">123456789</string>
+    <string name="fb_login_protocol_scheme_dev">fb123456789</string>
+
+    <!-- Kakao Key -->
+    <string name="kakao_app_key">2f9bd4dc39fc4a18c0b35a00fd05ea23</string>
+    <string name="kakao_scheme">kakao2f9bd4dc39fc4a18c0b35a00fd05ea23</string>
+    <string name="kakao_scheme2">kakaocf4ac4c6678a26b8015f00522734dfa2</string> <!-- 카카오링크 app_key 변경으로 변경전 키도 받을 수 있을도록 처리하기위해 남겨둠 -->
+    <string name="kakaolink_host">kakaolink</string>
+
+    <!-- Twitter Key -->
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">SGKCWCI6dom2wu0fsyxZzw</string>
+    <string name="com.twritter.sdk.android.CONSUMER_SECRET">q4xXVKkvlOfBYiAcyD25vxhSlxNomLCF8vt0S73nPM</string>
+
+    <string name="twitterkey">SGKCWCI6dom2wu0fsyxZzw</string>
+    <string name="twittersecret">q4xXVKkvlOfBYiAcyD25vxhSlxNomLCF8vt0S73nPM</string>
+
+
+    <!-- naver -->
+    <string name="naver_oauth_client_id">41Sg5KDSyWfxwAAPbBns</string>
+    <string name="naver_oauth_client_secret">95XyVQZ8YO</string>
+
+
+    <string name="launch_banner_not_show">7일동안 보지 않기</string>
+    <string name="launch_banner_close">닫기</string>
+    <string name="not_show_for_days">%1$d일동안 보지 않기</string>
+    <string name="not_show_today">오늘 하루 보지 않기</string>
+
+
+    <string name="qna_choose_picture_application">사진 가져올 방법을 선택하세요.</string>
+
+    <string name="cast_support_title">정기후원</string>
+    <string name="do_cast_regular_support">정기후원하기</string>
+    <string name="do_cast_free_support">무료후원하기</string>
+    <string name="cast_regular_support_message">- 정기후원 : 매월 일정 금액을 채널에 후원합니다.</string>
+    <string name="cast_free_support_message">- 무료후원 : 광고 시청 후 채널에 후원합니다.</string>
+    <string name="next_time">다음에</string>
+    <string name="can_not_free_support_message_exceed">회원님은 일일 무료 후원 횟수을 모두 사용하였습니다.</string>
+    <string name="can_not_free_supoort_message_later">회원님은 %1$s 이후에 후원하실 수 있습니다.</string>
+    <string name="ad_popcorn_error">광고 호출 중 오류가 발생하였습니다.</string>
+
+    <string name="cast_live_reply">라이브댓글</string>
+    <string name="episode_list_sort_recent">최신순</string>
+    <string name="episode_list_sort_regist">등록순</string>
+
+    <string name="player_setting_title">상세설정</string>
+    <string name="player_setting_speed">재생속도</string>
+    <string name="player_setting_timer">종료시간</string>
+    <string name="player_setting_bookmark_list">북마크 목록</string>
+    <string name="player_setting_timer_alert">타이머 설정은 재생중에만 가능합니다.</string>
+    <string name="player_setting_volume">음향 설정</string>
+    <string name="player_ab_loop_message">재생 위치를 옮겨 구간반복 마지막 위치를 설정해 주세요.\n구간반복 버튼을 한 번 더 누르면 설정이 완료됩니다.</string>
+    <string name="player_ab_loop_disable_no_media">재생 후 구간반복을 설정하실 수 있습니다.</string>
+    <string name="player_ab_loop">구간반복</string>
+    <string name="player_ab_loop_cancel">구간반복 해제</string>
+    <string name="bookmark">북마크</string>
+    <string name="bookmark_hint">메모는 최대 30자까지 입력할 수 있습니다.(선택사항)</string>
+    <string name="bookmark_memo_max">/30</string>
+    <string name="bookmark_write">북마크 저장</string>
+    <string name="bookmark_modify">북마크 수정</string>
+    <string name="bookmark_write_success">북마크가 등록되었습니다.</string>
+    <string name="bookmark_modify_success">북마크 메모가 수정되었습니다.</string>
+    <string name="bookmark_delete_success">북마크가 삭제되었습니다.</string>
+    <string name="bookmark_delete_confirm">북마크를 삭제하시겠습니까?</string>
+    <string name="bookmark_memo_empty">메모 없음</string>
+    <string name="bookmark_list_empty">등록한 북마크가 없습니다.</string>
+    <string name="bookmark_modify_memo">메모 수정</string>
+    <string name="bookmark_share">북마크 공유</string>
+    <string name="bookmark_delete">북마크 삭제</string>
+
+    <string name="contents_count">총 %1$d편</string>
+    <string name="audiobook_speaker">낭독자</string>
+    <string name="audiobook_writer">저자</string>
+    <string name="audiobook_free_play">무료 듣기</string>
+    <string name="audiobook_buy_ticket_msg">이용권 구매 후 청취 가능합니다.</string>
+    <string name="audiobook_buy_ticket">이용권 등록</string>
+    <string name="audiobook_ticket_in_use">이용중</string>
+    <string name="audiobook_have_ticket">소장</string>
+    <string name="audiobook_end_msg">판매가 종료 된 오디오북 입니다.</string>
+    <string name="audiobook_can_not_buy">구매불가</string>
+    <string name="audiobook_buy_rent">대여하기</string>
+    <string name="audiobook_rent_all_day">대여(%1$s일)</string>
+    <string name="audiobook_rent_infinity">대여(무제한)</string>
+    <string name="audiobook_rent_in_use">대여중</string>
+    <string name="audiobook_rent_until1">%1$s년 %2$s월 %3$s일까지</string>
+    <string name="audiobook_infinity">무제한</string>
+    <string name="audiobook_rent_until2">이용가능</string>
+    <!-- <string name="audiobook_noti">&#9432; 오디오북은 팟빵앱에서만 들을 수 있습니다.</string> -->
+    <string name="audiobook_noti"></string>
+    <string name="audiobook_info_tab">오디오북 정보</string>
+    <string name="audiobook_list">목차</string>
+    <string name="audiobook_introducing">소개</string>
+    <string name="audiobook_score_review">평점/리뷰</string>
+    <string name="audiobook_review_count">(%1$s명)</string>
+    <string name="audiobook_review_write">리뷰쓰기</string>
+    <string name="audiobook_review_more">더보기</string>
+    <string name="audiobook_empty_list_msg">등록된 오디오북이 없습니다.</string>
+    <string name="hour">시간</string>
+    <string name="minutes">분</string>
+    <string name="episode_hour_time">%1$s시간 %2$s분</string>
+    <string name="episode_minute_time">%1$s분</string>
+    <string name="won">%1$s원</string>
+    <string name="audiobook_discount">(%1$d%% 할인)</string>
+    <string name="audiobook_write_first_review">첫 번째 리뷰를 작성해 주세요!</string>
+    <string name="audiobook_write_review_label">평점/리뷰</string>
+    <string name="audiobook_write_review_regist">등록</string>
+    <string name="audiobook_write_review_modify">수정</string>
+    <string name="audiobook_write_review_delete">삭제</string>
+    <string name="audiobook_write_review_delete_alert">리뷰를 삭제하시겠습니까? \n삭제된 리뷰는 복구할 수 없습니다.</string>
+    <string name="audiobook_review_last">마지막 리뷰입니다.</string>
+
+
+    <string name="offline_message_title">오프라인 상태입니다.</string>
+    <string name="offline_message_description">오프라인 상태에서는\n다운로드 콘텐츠 청취만 가능합니다.</string>
+    <string name="offline_download">다운로드 콘텐츠 보기</string>
+    <string name="offline_network"><u>네트워크 다시 연결</u></string>
+
+
+    <string name="mypage_today_extinguished_cash">오늘 소멸예정 캐시</string>
+    <string name="mypage_tab_subscribe">구독함</string>
+    <string name="mypage_tab_pay">구매함</string>
+    <string name="mypage_tab_bookmark">북마크</string>
+    <string name="mypage_tab_support_history">후원내역</string>
+    <string name="mypage_tab_cash_history">캐시내역</string>
+    <string name="mypage_tab_pay_history">결제내역</string>
+    <string name="mypage_tab_faq_history">문의내역</string>
+    <string name="mypage_tab_my_reply">내 댓글</string>
+    <string name="mypage_user_info">프로필 설정</string>
+
+
+    <string name="error_message_login">로그인에 실패하였습니다.</string>
+
+    <string name="recommend_title">이달의 추천방송</string>
+
+    <string name="splash_cast_count">개의 방송</string>
+    <string name="splash_episode_count">개의 에피소드</string>
+    <string name="splash_description">팟빵에서만 들을 수 있는 \n오리지널 방송</string>
+
+    <string name="player_error">에피소드 파일이 없어 스트리밍 및 다운로드가 불가합니다.\n자세한 안내를 원하시는 경우 1:1문의 해주시기 바랍니다.</string>
+
+    <string name="theme_dialog_title">사용하실 모드를 \n선택해주세요!</string>
+    <string name="theme_dialog_description">화면 모드는 [메뉴 > 설정]에서 \n언제든지 변경하실 수 있습니다.</string>
+
+    <string name="please_login_for_play">로그인 후 이용해 주세요\!\n\n에피소드 이어듣기, 다운로드 등 다양한 기능을 이용해 더욱 편리하게 팟빵을 이용할 수 있습니다.</string>
+    <string name="do_not_show_again">다시보지 않기</string>
+
+    <string name="magazine_cover_play">일러두기</string>
+    <string name="magazine_cover_prev">이전호</string>
+    <string name="magazine_cover_next">다음호</string>
+    <string name="magazine_show_episode">VIEW POST</string>
+    <string name="magazine_prev_play">미리 듣기</string>
+    <string name="magazine_support_message_title">이번 매거진이 마음에 드셨나요?</string>
+    <string name="magazine_support_message">더 좋은 콘텐츠를 만들기 위해 응원해 주세요.</string>
+    <string name="magazine_support">후원하기</string>
+    <string name="magazine_feedback">의견 보내기</string>
+    <string name="magazine_share_title">친구들에게 공유해주세요.</string>
+    <string name="magazine_credit">CREDIT</string>
+    <string name="magazine_floating_message">지금 구독하면 첫 달 무료!</string>
+    <string name="magazine_episode_play">에피소드 듣기</string>
+    <string name="magazine_episode_pause">일시정지</string>
+    <string name="magazine_remain_time">남음</string>
+    <string name="magazine_episode_play_now">이 에피소드 \n지금 바로 듣기</string>
+    <string name="magazine_not_subscribe_title">앗! 아직 구독하지 않으셨네요.</string>
+    <string name="magazine_not_subscribe_description">이 매거진을 구독하고 매월 새로운 콘텐츠를 즐겨보세요.\n정기구독이 처음이시라면 첫 달은 0원!</string>
+    <string name="magazine_subscribe">정기구독하기</string>
+    <string name="magazine_suggest_subscribe_title">아직 구독하지 않으셨네요!</string>
+    <string name="magazine_suggest_subscribe_feedback_title">의견 보내기는\n구독 후 이용할 수 있습니다.</string>
+    <string name="magazine_suggest_subscribe_reply_title">댓글 게시판은\n구독 후 이용할 수 있습니다.</string>
+    <string name="magazine_suggest_subscribe_description">을 정기 구독하여\n다양한 에피소드를\n무제한으로 만나보세요!\n\n처음이라면, 첫 달은 무료!</string>
+    <string name="magazine_suggest_subscribe_start">구독 시작하기</string>
+    <string name="magazine_subscribe_success_message">정기구독이 시작되었습니다.</string>
+    <string name="magazine_subscribe_success_description">정기 구독 취소를 원하시는 경우, 사용하시는 기기의 계정 설정에서 취소하실 수 있습니다.\n(Google Play 스토어 실행 > 계정 > 정기 결제 > 정기구독 취소)</string>
+    <string name="magazine_subscribe_title">매거진 정기구독하기</string>
+    <string name="magazine_subscribe_free_message">지금 구독하면 한 달 무료</string>
+    <string name="magazine_subscribe_already_message">이미 구매하셨나요?</string>
+    <string name="magazine_subscribe_cancel">구매 복원하기</string>
+    <string name="magazine_subscribe_benefits_title">정기 구독 해택</string>
+    <string name="magazine_subscribe_check_title">결제 유의사항</string>
+    <string name="magazine_subscribe_now">바로 구독하기</string>
+    <string name="magazine_subscribe_month">개월</string>
+    <string name="magazine_subscribe_year">연</string>
+    <string name="magazine_subscribe_error">회원님의 정기구독 내역을 확인할 수 없습니다.\n팟빵 고객센터 (1:1문의)로 문의해주세요.</string>
+    <string name="magazine_subscribe_store_fail">정기구독 신청이 완료되지 않았습니다.\n잠시 후에 다시 시도해주세요.</string>
+    <string name="magazine_support_title">후원하기</string>
+    <string name="magazine_support_notice_1">\u2022 후원에 사용된 캐시는 환불 및 취소가 불가합니다.</string>
+    <string name="magazine_support_notice_2">\u2022 캐시가 부족한 경우 캐시충전소에서 충전 후 후원해주세요.</string>
+    <string name="magazine_support_notice_3">\u2022 후원내역은 [마이페이지] > [후원내역] > [매거진]에서 확인하실 수 있습니다.</string>
+    <string name="magazine_reply_not_subscribe">구독 후 이용 가능 합니다.</string>
+    <string name="go_all">전체보기</string>
+    <string name="did_support_cash_reply">하였습니다.</string>
+    <string name="magazine_support_default_message">매월 더 좋은 콘텐츠로 보답하겠습니다.</string>
+    <string name="magazine_reply_write_hint">응원의 한마디를 남겨주세요. 운영자에게 큰 힘이 됩니다.</string>
+    <string name="magazine_reply_write">댓글작성</string>
+    <string name="magazine_reply_message">더 좋은 콘텐츠를 만들 수 있도록 응원해 주세요.</string>
+    <string name="magazine_download_tool_tip">청취 중인 에피소드를 다운로드하실 수 있어요.</string>
+    <string name="magazine_cannot_download_tool_tip">무료 체험 중에는 다운로드가 불가합니다.</string>
+    <string name="magazine_notice_empty">공지사항이 없습니다.</string>
+
+
+    <string name="support_has_cash_label">보유캐시</string>
+    <string name="support_cash_label">후원캐시</string>
+    <string name="append_cash">%1$s 캐시</string>
+    <string name="plus_1000">+ 1,000</string>
+    <string name="plus_10000">+ 10,000</string>
+    <string name="plus_30000">+ 30,000</string>
+    <string name="support_cash_validation_message">&#9432; 후원은 100캐시 단위로만 가능합니다.</string>
+    <string name="support_cheer_hint">후원 메시지를 입력해주세요.</string>
+    <string name="support_cheer_max_length">/50</string>
+    <string name="support_cheer_over_length">후원 메시지는 50자까지 입력이 가능합니다.</string>
+    <string name="support_notice">후원 유의사항</string>
+    <string name="support_alert_not_set_cash">후원할 캐시를 설정해주세요.</string>
+    <string name="support_alert_not_set_cash_100">후원은 100캐시 단위로만 가능합니다.</string>
+    <string name="support_alert_need_cash">캐시가 부족합니다.</string>
+    <string name="support_do_cash_charge">충전하러 가기</string>
+    <string name="support_confirm_title">를 후원하시겠습니까?</string>
+    <string name="support_success_title">후원하였습니다.</string>
+    <string name="support_success_description">후원 내역은 마이페이지>후원 내역에서 확인하실 수 있습니다.</string>
+
+    <string name="magazine_recent">최신 매거진</string>
+    <string name="magazine_recent_all_issues">최신 매거진 전체보기</string>
+    <string name="magazine_all_issues">매거진 전체보기</string>
+    <string name="search_magazine_episode">에피소드 검색</string>
+    <string name="magazine_library">매거진 서재</string>
+    <string name="collect">구매</string>
+    <string name="magazine_my_library_empty_message">구매중인 매거진이 없습니다.</string>
+    <string name="magazine_subscribe_or_purchase_dialog_title">정기 구독 또는 매거진을 구매하시겠습니까?</string>
+    <string name="magazine_play_after_subscribe_or_purchase_dialog_description">정기 구독 또는 매거진 구매 후 청취가능합니다.</string>
+    <string name="magazine_feedback_after_subscribe_or_purchase_dialog_description">의견보내기는 정기 구독 또는 매거진 구매 후 가능합니다.</string>
+    <string name="magazine_support_after_subscribe_or_purchase_dialog_description">후원하기는 정기 구독 또는 매거진 구매 후 가능합니다.</string>
+    <string name="magazine_do_subscribe">정기 구독하기</string>
+    <string name="magazine_purchase_dialog_title">해당 매거진을 구매하시겠습니까?</string>
+    <string name="magazine_play_after_purchase_dialog_description">구매 후 청취가능합니다.</string>
+    <string name="magazine_feedback_after_purchase_dialog_description">의견보내기는 구매 후 이용가능합니다.</string>
+    <string name="magazine_support_after_purchase_dialog_description">후원하기는 구매 후 이용가능합니다.</string>
+    <string name="magazine_subscribe_dialog_title">매거진을 정기구독 하시겠습니까?</string>
+    <string name="magazine_play_after_subscribe_dialog_description">이 에피소드는 정기구독 후 청취가능합니다.</string>
+    <string name="magazine_feedback_after_subscribe_dialog_description">의견보내기는 정기구독 후 가능합니다.</string>
+    <string name="magazine_support_after_subscribe_dialog_description">후원하기는 정기구독 후 가능합니다.</string>
+    <string name="magazine_not_available_message">정기 구독 또는 매거진 구매 후 이용가능합니다.</string>
+    <string name="magazine_available_after_purchase">구매 후 이용 가능합니다.</string>
+    <string name="magazine_available_after_subscribe">매거진 정기구독 후 이용가능합니다.</string>
+    <string name="magazine_coming_soon_issue_message">발행 예정인 에피소드입니다.</string>
+    <string name="magazine_comments">매거진 댓글</string>
+    <string name="magazine_total_reply_disable_alert_title">전체 댓글에서는 댓글 보기만 가능합니다.</string>
+    <string name="magazine_total_reply_disable_alert_description">댓글 작성 및 추천/비추천은 매거진 댓글에서 이용가능합니다.</string>
+    <string name="magazine_reply_tooltip_subscribe">매거진 정기구독 후 댓글 이용이 가능합니다.</string>
+    <string name="magazine_reply_tooltip_purchase">매거진 구매 후 댓글 이용이 가능합니다.</string>
+
+    <string name="see_all_comments">댓글 전체보기</string>
+    <string name="coming_soon">발행예정</string>
+    <string name="collectable">구매가능</string>
+    <string name="append_year">%1s년</string>
+    <string name="append_count_of_episode">%1s개의 에피소드</string>
+    <string name="info">정보</string>
+    <string name="first_published">최초 발행</string>
+    <string name="rating">등급</string>
+    <string name="copyright">저작권</string>
+    <string name="upload_days">연재</string>
+    <string name="product">상품</string>
+    <string name="option">옵션</string>
+    <string name="period_of_use">이용기간</string>
+    <string name="infinity_permanent_have">무제한(영구소장)</string>
+    <string name="has">보유</string>
+    <string name="not_enough">부족</string>
+    <string name="use">사용</string>
+    <string name="purchase_notice">결제 유의사항</string>
+    <string name="purchase_after_charge">충전 후 구매하기</string>
+    <string name="purchase_success_message">구매하였습니다.</string>
+    <string name="purchase_success_description">구매한 내역은 내서재에서 확인하실 수 있습니다.</string>
+    <string name="video">영상</string>
+    <string name="do_collect">개별구매</string>
+    <string name="do_purchase">구매하기</string>
+    <string name="club_close_title">대화가 종료되었습니다.</string>
+    <string name="club_close_description">다음에 또 만나요.</string>
+    <string name="club_block_title">대화에 참여하실 수 없습니다.</string>
+    <string name="club_block_description">진행자로부터 차단되었습니다.</string>
+    <string name="club_ready_title">곧 대화가 시작 될 예정입니다.</string>
+    <string name="club_ready_description">잠시 후에 다시 입장해주세요.</string>
+    <string name="on_air">라이브중</string>
+
+    <string name="my_subscription">구독 내역</string>
+    <string name="show_my_subscription">구독 내역 보기</string>
+    <string name="order_recent_publish">최근 발행순</string>
+    <string name="order_recent_purchase">최근 구매순</string>
+
+    <string name="usable_label">이용가능: </string>
+    <string name="free_trial_start">무료 체험 시작</string>
+    <string name="append_discount">%1$d%% 할인</string>
+
+    <string name="data_load_fail_message">데이터를 가져오는데 실패하였습니다.\n잠시 후에 다시 시도해주세요.</string>
+
+
+    <string name="terms_of_service">이용약관 상세보기</string>
+    <string name="privacy_policy_detail">개인정보처리방침 상세보기</string>
+
+    <string name="subscribe_realname">본인 인증 후 이용가능합니다.</string>
+    <string name="subscribe_already_title">이미 구매한 정기구독 상품이 있습니다.</string>
+    <string name="subscribe_already_description">[구매 복원하기] 버튼으로 이미 구매한 상품을 복원하세요.</string>
+
+
+    <string name="webview_ssl_error_dialog_title">이 사이트의 보안 인증서는 신뢰하는 보안 인증서가 아닙니다. 계속하시겠습니까?</string>
+    <string name="webview_ssl_error_dialog_proceed">계속하기</string>
+
+    <string name="need_to_permission">접근 권한이 없어 해당 기능을 사용할 수 없습니다.\n권한을 허용하시려면 확인을 눌러주세요.</string>
+
+    <string name="history_empty">청취 히스토리가 없습니다.</string>
+    <string name="download_empty">다운로드 내역이 없습니다.</string>
+
+    <string name="audio_recording_permission_title">마이크 권한을 허용하셔야 이용 가능합니다.</string>
+    <string name="permission_description">휴대폰 설정> 애플리케이션> 팟빵> 권한</string>
+    <string name="do_setting">설정하기</string>
+
+    <string name="webpage_error_title">화면을 불러오지 못했습니다.</string>
+    <string name="webpage_retry">다시 시도</string>
+
+    <string name="empty_notification_title">팟빵앱이 실행 중입니다.</string>
+    <string name="push_notification_channel_name">푸시 알림</string>
+    <string name="player_notification_channel_name">재생 플레이어</string>
+
+    <string name="purchased">구매함</string>
+    <string name="play_percentage">% 재생</string>
+    <string name="thousand">천</string>
+    <string name="ten_thousand">만</string>
+    <string name="append_count_episode">%1s개 에피소드</string>
+
+
+    <string name="auto_tab_home">홈</string>
+    <string name="auto_tab_live">라이브</string>
+    <string name="auto_tab_musicpod">뮤직팟</string>
+    <string name="auto_tab_recommend_episode">추천 에피소드</string>
+    <string name="auto_tab_history">최근 청취</string>
+    <string name="auto_tab_history_noting">최근 청취내역이 없습니다.</string>
+    <string name="auto_tab_download">다운로드</string>
+    <string name="auto_tab_subscription">구독 채널</string>
+    <string name="auto_tab_more">보관함</string>
+    <string name="auto_tab_recommend">추천</string>
+    <string name="auto_recommend_month">이달의 추천</string>
+    <string name="auto_pay_episode">구매한 에피소드</string>
+    <string name="auto_pay_audiobook">구매한 오디오</string>
+
+
+
+    <!-- 애드팝콘 네이버 광고 호환용 -->
+    <string name="nam_publisher_cd">N256497692</string>
+    <string name="periodicSubscriptions">정기구독 내역보기</string>
+    <string name="registerGiftCode">선물코드 등록</string>
+
+    <string name="googleClientId">154853897986-bb3eds56g6gsr9bir0ui5sidjlhaaf8u.apps.googleusercontent.com</string>
+
+    <string name="withDrawMemberTitle">\n팟빵 회원 탈퇴시,\n</string>
+    <string name="withDrawMember">즉시 팟빵 서비스 이용 정보 및 기록은 모두 삭제되며,\n탈퇴한 아이디는 복구가 불가하오니 신중하게 선택해 주시기 바랍니다.\n\n\u2022 탈퇴 시 이용 중인 모든 캐시, 구매한 콘텐츠(채널, 오디오북, 에피소드, 매거진)등이 모두 삭제 되며 삭제 된 데이터는 재가입하더라도 복구되지 않습니다.\n\n\u2022 탈퇴 시 등록 한 댓글은 자동 삭제되지 않습니다.\n삭제를 원하는 댓글이 있다면 반드시 탈퇴 전 삭제해 주시기 바라며,탈퇴 후에는 회원정보가 삭제되어 본인 여부를 확인할 수 있는 방법이 없어 임의로 삭제해 드릴 수 없습니다.\n\n\u2022 탈퇴 시 정보 및 모든 이용정보가 그 즉시 삭제되어 미사용 보유 캐시에 대한 환불이 불가합니다.\n\n\u2022 자동 결제 상품(정기후원, 매거진)을 이용 중인 경우 기기 내에서 직접 구독 해지 후 탈퇴해 주시기 바랍니다.\n\n\u2022 방송 운영자일 경우 문의하기를 통해 회원 탈퇴가 가능합니다.\n\n<b>[환불 신청 방법]</b>\n회원탈퇴 전 계좌번호, 은행명, 연락처를 기재하여 help@podbbang.com으로 환불신청 메일을 보내주시기 바랍니다. (통장사본, 신분증 첨부)\n\n
+</string>
+    <string name="reply_review_write_success">리뷰등록이 완료되었습니다!</string>
+    <string name="reply_review_modify_success">리뷰수정이 완료되었습니다!</string>
+    <string name="reply_review_delete_success">리뷰삭제가 완료되었습니다!</string>
+    <string name="community">커뮤니티</string>
+    <string name="music_pod">뮤직팟</string>
+    <string name="gift_box">선물함</string>
+    <string name="charge">충전하기</string>
+
+</resources>

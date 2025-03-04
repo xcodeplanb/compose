@@ -16,6 +16,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Podbbang"
-include(":mobile")
-include(":automotive")
 include(":shared")
+include(":app")
+include(":automotive")

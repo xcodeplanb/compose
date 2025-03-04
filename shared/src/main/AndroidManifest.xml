@@ -1,22 +1,33 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <application android:appCategory="audio">
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
-        <meta-data
-            android:name="com.google.android.gms.car.application"
-            android:resource="@xml/automotive_app_desc" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
-        <!-- Main music service, provides media browsing and media playback services to
-         consumers through MediaBrowserService and MediaSession. Consumers connect to it through
-         MediaBrowser (for browsing) and MediaController (for playback control) -->
-        <service
-            android:name="com.makeshop.podbbang.shared.MyMusicService"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.media.browse.MediaBrowserService" />
-            </intent-filter>
-        </service>
+<!--    <application>-->
 
-    </application>
+<!--        &lt;!&ndash;-->
+<!--             MediaSession, prior to API 21, uses a broadcast receiver to communicate with a-->
+<!--             media session. It does not have to be this broadcast receiver, but it must-->
+<!--             handle the action "android.intent.action.MEDIA_BUTTON".-->
+
+<!--             Additionally, this is used to resume the service from an inactive state upon-->
+<!--             receiving a media button event (such as "play").-->
+<!--        &ndash;&gt;-->
+<!--        <receiver-->
+<!--            android:name="androidx.media.session.MediaButtonReceiver"-->
+<!--            android:exported="true">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MEDIA_BUTTON" />-->
+<!--            </intent-filter>-->
+<!--        </receiver>-->
+
+<!--        &lt;!&ndash;        <provider&ndash;&gt;-->
+<!--        &lt;!&ndash;            android:name=".library.AlbumArtContentProvider"&ndash;&gt;-->
+<!--        &lt;!&ndash;            android:authorities="com.example.android.uamp"&ndash;&gt;-->
+<!--        &lt;!&ndash;            android:exported="true" />&ndash;&gt;-->
+
+<!--    </application>-->
 
 </manifest>

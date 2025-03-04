@@ -1,0 +1,35 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.makeshop.podbbang.shared" > <!-- <application> -->
+4    <!-- &lt;!&ndash; -->
+5    <!-- MediaSession, prior to API 21, uses a broadcast receiver to communicate with a -->
+6    <!-- media session. It does not have to be this broadcast receiver, but it must -->
+7    <!-- handle the action "android.intent.action.MEDIA_BUTTON". -->
+8    <!-- Additionally, this is used to resume the service from an inactive state upon -->
+9    <!-- receiving a media button event (such as "play"). -->
+10    <!-- &ndash;&gt; -->
+11    <!-- <receiver -->
+12    <!-- android:name="androidx.media.session.MediaButtonReceiver" -->
+13    <!-- android:exported="true"> -->
+14    <!-- <intent-filter> -->
+15    <!-- <action android:name="android.intent.action.MEDIA_BUTTON" /> -->
+16    <!-- </intent-filter> -->
+17    <!-- </receiver> -->
+18    <!-- &lt;!&ndash;        <provider&ndash;&gt; -->
+19    <!-- &lt;!&ndash;            android:name=".library.AlbumArtContentProvider"&ndash;&gt; -->
+20    <!-- &lt;!&ndash;            android:authorities="com.example.android.uamp"&ndash;&gt; -->
+21    <!-- &lt;!&ndash;            android:exported="true" />&ndash;&gt; -->
+22    <!-- </application> -->
+23    <uses-sdk android:minSdkVersion="26" />
+24
+25    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+25-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:3:5-77
+25-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:3:22-74
+26    <uses-permission android:name="android.permission.INTERNET" />
+26-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:4:5-67
+26-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:4:22-64
+27    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+27-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:6:5-77
+27-->/Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:6:22-74
+28
+29</manifest>

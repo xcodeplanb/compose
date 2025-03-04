@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="albums_title">Albums</string>
+    <string name="allowed_caller_log">
+        Caller has a valid certificate, but its package doesn\'t match any expected package for the
+        given certificate. To allow this caller, add the following to the allowed callers list:\n
+        <![CDATA[
+        <signature name=\"%1$s\" package=\"%2$s\">\n\t<key>%3$s</key>\n</signature>\n
+        ]]>
+    </string>
+    <string name="error_media_not_found">Could not locate requested media.</string>
+    <string name="exo_controls_shuffle_off_description">Enable shuffle mode</string>
+    <string name="exo_controls_shuffle_on_description">Disable shuffle mode</string>
+    <string name="generic_error">The application has encountered an unexpected error.</string>
+    <string name="home_list_live">라이브</string>
+    <string name="home_list_musicpod">뮤직팟</string>
+    <string name="media_route_menu_title">Cast</string>
+    <string name="notification_channel">Now Playing</string>
+    <string name="notification_channel_description">Shows what music is currently playing in UAMP</string>
+    <string name="notification_channel_name">Playback cannot be resumed</string>
+    <string name="notification_content_text">Press on the play button on the media notification if it
+    is still present, otherwise please open the app to start the playback and re-connect the session
+    to the controller</string>
+    <string name="notification_content_title">Playback cannot be resumed</string>
+    <string name="notification_pause">Pause</string>
+    <string name="notification_play">Play</string>
+    <string name="notification_skip_to_next">Skip to next track</string>
+    <string name="notification_skip_to_previous">Skip to previous track</string>
+    <string name="recommended_title">Recommended</string>
+    <string name="root_tab_history">최근 청취</string>
+    <string name="root_tab_home">홈</string>
+    <string name="root_tab_more">보관함</string>
+</resources>

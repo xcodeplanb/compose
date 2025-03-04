@@ -1,33 +1,23 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:1:1-22:12
-INJECTED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:1:1-22:12
+ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:1:1-33:12
 	package
 		INJECTED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:1:11-69
-application
-ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:3:5-20:19
-	android:appCategory
-		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:3:18-45
-meta-data#com.google.android.gms.car.application
-ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:5:9-7:59
-	android:resource
-		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:7:13-56
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:3:5-77
 	android:name
-		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:6:13-66
-service#com.makeshop.podbbang.shared.MyMusicService
-ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:12:9-18:19
-	android:exported
-		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:14:13-36
+		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:3:22-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:13:13-71
-intent-filter#action:name:android.media.browse.MediaBrowserService
-ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:15:13-17:29
-action#android.media.browse.MediaBrowserService
-ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:16:17-83
+		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:6:5-77
 	android:name
-		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:16:25-80
+		ADDED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml:6:22-74
 uses-sdk
 INJECTED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/podbbang/AndroidStudioProjects/Podbbang/shared/src/main/AndroidManifest.xml

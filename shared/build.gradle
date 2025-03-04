@@ -1,22 +1,77 @@
 plugins {
     id 'com.android.library'
-    id 'org.jetbrains.kotlin.android'
+    alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.hilt)
+    alias(libs.plugins.kapt)
+    alias(libs.plugins.kotlinParcelize)
 }
+
 android {
-    namespace 'com.makeshop.podbbang.shared'
-    compileSdkVersion 34
-
+    compileSdk = 34
+    namespace = "com.makeshop.podbbang.shared"
     defaultConfig {
-        minSdkVersion 28
-        targetSdkVersion 34
+        minSdk = 26
+        targetSdk = 34
 
-        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
+
+    buildTypes {
+        release {
+//            isMinifyEnabled = false
+            proguardFiles(
+                    getDefaultProguardFile("proguard-android-optimize.txt"),
+                    "proguard-rules.pro"
+            )
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
     kotlinOptions {
-        jvmTarget = '1.8'
+        jvmTarget = "17"
+    }
+
+    composeOptions {
+        kotlinCompilerExtensionVersion = "1.5.6"
+    }
+
+    buildFeatures {
+        compose = true
     }
 }
 
 dependencies {
-    implementation 'androidx.media:media:1.7.0'
+    implementation(libs.kotlinx.coroutines.android)
+    implementation(libs.androidx.media3.exoplayer)
+    implementation(libs.androidx.media3.exoplayer.dash)
+    implementation(libs.androidx.media3.ui)
+    implementation(libs.glide.compose)
+    implementation(libs.glide)
+
+    api(libs.androidx.media3.session)
+    api(libs.androidx.media3.cast)
+
+    implementation(libs.kotlinx.coroutines.guava)
+    implementation(libs.paging.runtime.ktx)
+
+    //retrofit2, okhttp3, gson
+    implementation(libs.bundles.retrofit)
+    implementation(libs.bundles.okhttp)
+    implementation(libs.gson)
+    implementation(libs.retrofit2.kotlinx.serialization.converter)
+
+    // room
+    implementation(libs.bundles.room)
+    kapt(libs.room.compiler)
+    implementation(libs.room.runtime)
+    implementation(libs.room.ktx)
+
+    api(libs.hilt.android.core)
+    api(libs.androidx.hilt.navigation.compose)
+    implementation libs.androidx.sqlite.ktx
+    kapt(libs.hilt.compiler)
 }
